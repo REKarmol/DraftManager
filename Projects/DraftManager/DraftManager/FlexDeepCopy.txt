@@ -1,0 +1,32 @@
+// saw this in a Flex 3 Cookbook by Joshua Noble and Todd Anderson from O'Reilly (2008)
+
+import flash.net.registerClassAlias;
+import flash.utils.getDefinitionByName;
+import flash.utils.getQualifiedClassName;
+import mx.core.mx_internal;
+import mx.utils.ObjectUtil;
+	
+	
+	// functions copyOverObject and copyOverArray are attempts to do a deep copy on the ArrayCollection in persistQuestions
+	private function copyOverObject(obj:Object, reg:Boolean=false):Object
+	{
+		if (reg) {
+			var className:String = flash.utils.getQualifiedClassName(obj);
+			flash.net.registerClassAlias(className,(flash.utils.getDefinitionByName(className) as Class));
+		}
+		return mx.utils.ObjectUtil.copy(obj);
+	}
+	
+	// functions copyOverObject and copyOverArray are attempts to do a deep copy on the ArrayCollection in persistQuestions
+	private function copyOverArray(arr:Array):Array {
+		var newArray:Array = new Array();
+		for (var i:int; i<arr.length; i++) {
+			newArray.push(copyOverObject(arr[i],true));
+		}
+		return newArray;
+	}
+	
+	{
+        //Create a copy of templateDesigner.templateQuestions (deep copy)
+        var questionArrayCopy:ArrayCollection = new ArrayCollection(copyOverArray(templateDesigner.templateQuestions.source));
+	}

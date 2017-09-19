@@ -1,0 +1,1656 @@
+[GAMES=16]
+[QB=LAST,FIRST NFL POS,PTS,AVG,PYDS,COMP,ATT,PTDS,INTS,RYDS,ATT,RTDS,FUMS]
+Brees, Drew NOS QB, 375, 25.0, 4683, 383, 586, 30, 16, -1, 22, 0, 1
+Rivers, Philip SDC QB, 354, 23.6, 3802, 297, 458, 32, 11, 73, 27, 0, 4
+Romo, Tony DAL QB, 280, 23.3, 3265, 255, 412, 26, 13, 30, 26, 0, 5
+Rodgers, Aaron GBP QB, 341, 22.7, 3730, 320, 505, 25, 13, 208, 55, 4, 3
+Cutler, Jay DEN QB, 337, 22.5, 4209, 351, 567, 24, 16, 196, 55, 2, 2
+Manning, Peyton IND QB, 329, 21.9, 3907, 364, 548, 26, 12, 21, 20, 1, 0
+Warner, Kurt ARI QB, 327, 21.8, 4319, 383, 569, 26, 13, -2, 18, 0, 6
+Cassel, Matt NEP QB, 305, 20.3, 3615, 322, 510, 21, 11, 252, 73, 2, 4
+Schaub, Matt HOU QB, 200, 20.0, 2715, 224, 344, 13, 10, 71, 27, 2, 4
+Thigpen, Tyler KCC QB, 254, 19.5, 2417, 211, 384, 17, 12, 382, 60, 3, 1
+Hill, Shaun SFO QB, 156, 19.5, 1801, 160, 258, 12, 7, 107, 20, 1, 1
+McNabb, Donovan PHI QB, 291, 19.4, 3741, 333, 550, 21, 11, 147, 35, 1, 5
+Pennington, Chad MIA QB, 263, 17.5, 3453, 299, 446, 17, 7, 56, 30, 1, 0
+Manning, Eli NYG QB, 261, 17.4, 3119, 278, 460, 21, 10, 10, 20, 1, 2
+Garrard, David JAC QB, 257, 17.1, 3493, 321, 510, 14, 11, 282, 69, 2, 3
+Garcia, Jeff TBB QB, 187, 17.0, 2455, 227, 343, 11, 5, 141, 31, 1, 2
+Favre, Brett NYJ QB, 247, 16.5, 3239, 323, 482, 21, 19, 43, 21, 1, 2
+Ryan, Matt ATL QB, 241, 16.1, 3280, 255, 413, 15, 9, 105, 51, 1, 1
+Roethlisberger, Ben PIT QB, 231, 15.4, 3204, 273, 456, 17, 14, 101, 34, 2, 7
+Campbell, Jason WAS QB, 223, 14.9, 3089, 297, 476, 12, 6, 219, 43, 0, 1
+Orton, Kyle CHI QB, 209, 14.9, 2735, 251, 429, 16, 12, 47, 22, 2, 5
+Flacco, Joe BAL QB, 216, 14.4, 2674, 240, 405, 14, 12, 181, 52, 2, 2
+Edwards, Trent BUF QB, 184, 14.2, 2571, 231, 349, 11, 10, 97, 32, 3, 4
+Delhomme, Jake CAR QB, 210, 14.0, 3034, 232, 394, 14, 12, 21, 20, 2, 3
+Rosenfels, Sage HOU QB, 83, 13.8, 1431, 116, 174, 6, 10, 37, 11, 0, 2
+Kitna, Jon DET QB, 55, 13.8, 758, 68, 120, 5, 5, 26, 6, 0, 1
+Frerotte, Gus MIN QB, 149, 13.5, 2157, 178, 301, 12, 15, 7, 19, 1, 1
+Griese, Brian TBB QB, 66, 13.2, 1073, 110, 184, 5, 7, -1, 5, 0, 1
+Collins, Kerry TEN QB, 190, 12.7, 2681, 242, 414, 12, 7, 49, 25, 0, 1
+Wallace, Seneca SEA QB, 111, 12.3, 1282, 117, 199, 9, 1, 64, 13, 0, 3
+O'Sullivan, J.T. SFO QB, 108, 12.0, 1678, 128, 220, 8, 11, 145, 30, 0, 6
+Fitzpatrick, Ryan CIN QB, 139, 11.6, 1776, 203, 342, 8, 9, 275, 53, 2, 5
+Anderson, Derek CLE QB, 116, 11.6, 1615, 142, 283, 9, 8, 58, 24, 0, 2
+Russell, JaMarcus OAK QB, 159, 11.4, 2275, 184, 346, 11, 7, 125, 17, 1, 7
+Jackson, Tarvaris MIN QB, 91, 11.4, 817, 72, 123, 8, 1, 144, 23, 0, 3
+Culpepper, Daunte DET QB, 55, 11.0, 786, 60, 115, 4, 6, 25, 11, 1, 1
+Quinn, Brady CLE QB, 33, 11.0, 518, 45, 89, 2, 2, 21, 5, 0, 0
+Bulger, Marc STL QB, 150, 10.7, 2497, 233, 409, 10, 13, 41, 14, 0, 4
+Orlovsky, Dan DET QB, 96, 10.7, 1391, 121, 213, 6, 6, 29, 7, 0, 0
+Hasselbeck, Matt SEA QB, 73, 10.4, 1216, 109, 209, 5, 10, 69, 11, 0, 0
+Palmer, Carson CIN QB, 47, 9.4, 736, 76, 130, 3, 4, 38, 6, 0, 0
+Grossman, Rex CHI QB, 31, 7.8, 257, 33, 63, 2, 2, 4, 3, 2, 0
+Frye, Charlie SEA QB, 15, 7.5, 83, 12, 23, 2, 2, 30, 2, 0, 0
+Losman, J.P. BUF QB, 40, 6.7, 584, 63, 104, 2, 5, 70, 12, 2, 4
+Leftwich, Byron PIT QB, 22, 4.4, 223, 14, 24, 2, 0, -1, 3, 0, 0
+Stanton, Drew DET QB, 11, 3.7, 119, 9, 17, 1, 0, 20, 3, 0, 0
+Croyle, Brodie KCC QB, 7, 3.5, 151, 20, 29, 0, 0, , , , 
+Leinart, Matt ARI QB, 9, 3.0, 181, 10, 21, 1, 1, 6, 3, 0, 1
+Young, Vince TEN QB, 9, 3.0, 164, 13, 23, 1, 2, 2, 3, 0, 0
+Brady, Tom NEP QB, 3, 3.0, 76, 7, 11, 0, 0, , , , 
+Smith, Troy BAL QB, 9, 1.8, 57, 2, 2, 1, 0, 24, 9, 0, 0
+Carr, David NYG QB, 6, 1.5, 5, 1, 1, 1, 0, -5, 5, 0, 0
+Henne, Chad MIA QB, 3, 1.0, 67, 7, 12, 0, 0, , , , 
+O'Connell, Kevin NEP QB, 1, 0.5, 23, 4, 6, 0, 0, -6, 3, 0, 0
+McCown, Luke TBB QB, 1, 0.3, 0, 0, 1, 0, 0, 15, 3, 0, 0
+
+[QB=LAST,FIRST NFL POS,PTS,AVG,PYDS,COMP,ATT,PTDS,INTS,RYDS,ATT,RTDS,FUMS]
+Rodgers, Aaron GBP QB, 411, 27.4, 4199, 329, 515, 29, 7, 302, 57, 4, 4
+Brees, Drew NOS QB, 393, 26.2, 4388, 363, 514, 34, 11, 33, 22, 2, 6
+Manning, Peyton IND QB, 381, 25.4, 4405, 379, 553, 33, 15, -13, 19, 0, 0
+Schaub, Matt HOU QB, 352, 23.5, 4467, 372, 544, 27, 14, 60, 45, 0, 2
+Brady, Tom NEP QB, 350, 23.3, 4212, 354, 539, 28, 12, 44, 29, 1, 2
+Rivers, Philip SDC QB, 347, 23.1, 4155, 308, 471, 27, 9, 50, 26, 1, 3
+Roethlisberger, Ben PIT QB, 322, 23.0, 4108, 319, 479, 23, 12, 62, 37, 2, 2
+Favre, Brett MIN QB, 344, 22.9, 3886, 339, 501, 29, 7, 5, 8, 0, 2
+McNabb, Donovan PHI QB, 295, 22.7, 3330, 247, 407, 22, 10, 133, 34, 2, 2
+Romo, Tony DAL QB, 335, 22.3, 4172, 323, 516, 24, 8, 108, 32, 1, 4
+Warner, Kurt ARI QB, 304, 21.7, 3727, 336, 508, 27, 14, 10, 21, 0, 6
+Manning, Eli NYG QB, 313, 20.9, 3880, 300, 486, 27, 13, 65, 17, 0, 7
+Dixon, Dennis PIT QB, 19, 19.0, 145, 12, 26, 1, 1, 27, 3, 1, 0
+Palmer, Carson CIN QB, 273, 18.2, 3094, 281, 455, 21, 12, 93, 39, 3, 2
+Cutler, Jay CHI QB, 270, 18.0, 3390, 314, 519, 23, 26, 167, 40, 1, 1
+Flacco, Joe BAL QB, 268, 17.9, 3511, 304, 480, 21, 12, 64, 30, 0, 2
+Orton, Kyle DEN QB, 264, 17.6, 3371, 304, 485, 20, 9, 55, 22, 0, 2
+Ryan, Matt ATL QB, 227, 17.5, 2693, 240, 416, 20, 12, 46, 29, 1, 2
+Campbell, Jason WAS QB, 256, 17.1, 3337, 299, 465, 18, 15, 228, 44, 1, 3
+Stafford, Matthew DET QB, 168, 16.8, 2267, 201, 377, 13, 20, 108, 21, 2, 1
+Garrard, David JAC QB, 249, 16.6, 3395, 292, 477, 13, 9, 283, 72, 3, 8
+Smith, Alex SFO QB, 181, 16.5, 2128, 208, 344, 17, 12, 50, 20, 0, 1
+Hasselbeck, Matt SEA QB, 200, 15.4, 2854, 278, 458, 16, 16, 114, 24, 0, 3
+Leftwich, Byron TBB QB, 46, 15.3, 594, 58, 107, 4, 3, 6, 6, 0, 0
+Cassel, Matt KCC QB, 208, 14.9, 2717, 259, 470, 16, 15, 196, 49, 0, 3
+Young, Vince TEN QB, 161, 14.6, 1708, 135, 231, 10, 6, 283, 53, 2, 2
+Henne, Chad MIA QB, 179, 13.8, 2738, 258, 431, 11, 13, 32, 15, 1, 0
+Freeman, Josh TBB QB, 116, 12.9, 1683, 143, 259, 9, 16, 164, 28, 0, 2
+Hill, Shaun SFO QB, 74, 12.3, 943, 87, 155, 5, 2, 70, 8, 0, 1
+Sanchez, Mark NYJ QB, 165, 11.8, 2381, 188, 347, 12, 20, 104, 34, 3, 3
+Collins, Kerry TEN QB, 82, 11.7, 1225, 119, 216, 6, 8, 15, 12, 1, 2
+Kolb, Kevin PHI QB, 58, 11.6, 741, 62, 96, 4, 3, 5, 4, 1, 1
+Moore, Matt CAR QB, 80, 11.4, 891, 71, 115, 7, 2, -2, 11, 0, 0
+Gradkowski, Bruce OAK QB, 79, 11.3, 1007, 82, 150, 6, 3, 108, 18, 0, 3
+Redman, Chris ATL QB, 56, 11.2, 781, 69, 119, 4, 3, 4, 6, 0, 0
+Edwards, Trent BUF QB, 86, 10.8, 1169, 110, 183, 6, 7, 106, 14, 0, 0
+Quinn, Brady CLE QB, 105, 10.5, 1339, 136, 256, 8, 7, 98, 20, 1, 3
+Johnson, Josh TBB QB, 51, 10.2, 685, 63, 125, 4, 8, 148, 22, 0, 1
+Delhomme, Jake CAR QB, 108, 9.8, 2015, 178, 321, 8, 18, 60, 17, 0, 3
+Fitzpatrick, Ryan BUF QB, 88, 9.8, 1267, 111, 202, 6, 10, 134, 30, 1, 2
+Bulger, Marc STL QB, 85, 9.4, 1469, 140, 247, 5, 6, 22, 8, 0, 1
+Boller, Kyle STL QB, 49, 8.2, 876, 94, 165, 3, 6, 63, 12, 0, 2
+Null, Keith STL QB, 21, 7.0, 501, 65, 101, 3, 9, 0, 2, 0, 1
+Frye, Charlie OAK QB, 14, 7.0, 401, 35, 62, 0, 4, 39, 3, 0, 0
+Anderson, Derek CLE QB, 43, 6.1, 802, 74, 171, 3, 9, 6, 9, 2, 3
+Pennington, Chad MIA QB, 17, 5.7, 413, 51, 74, 1, 2, 7, 3, 0, 2
+Croyle, Brodie KCC QB, 22, 5.5, 230, 23, 40, 2, 0, , , , 
+Culpepper, Daunte DET QB, 33, 4.7, 683, 66, 123, 1, 5, 82, 14, 0, 0
+Wallace, Seneca SEA QB, 52, 4.3, 683, 77, 119, 3, 2, 2, 16, 1, 2
+Russell, JaMarcus OAK QB, 46, 4.2, 1185, 111, 232, 3, 10, 40, 17, 0, 5
+Carr, David NYG QB, 22, 3.7, 199, 18, 28, 1, 0, 27, 9, 1, 0
+Brohm, Brian BUF QB, 3, 3.0, 146, 17, 29, 0, 2, , , , 
+Vick, Michael PHI QB, 27, 2.2, 86, 6, 13, 1, 0, 95, 24, 2, 0
+Hoyer, Brian NEP QB, 9, 2.2, 71, 11, 15, 0, 0, 15, 9, 1, 0
+Stanton, Drew DET QB, 6, 2.0, 259, 26, 51, 0, 6, 33, 9, 1, 1
+Leinart, Matt ARI QB, 13, 1.9, 339, 38, 56, 0, 1, -6, 9, 0, 0
+Jackson, Tarvaris MIN QB, 12, 1.5, 159, 10, 15, 1, 0, -7, 14, 0, 0
+Smith, Troy BAL QB, 6, 1.5, 24, 5, 9, 0, 1, 31, 8, 1, 0
+Collins, Todd WAS QB, 5, 1.0, 144, 12, 23, 0, 0, 0, 1, 0, 0
+Clemens, Kellen NYJ QB, 5, 0.6, 125, 13, 26, 0, 0, 4, 9, 0, 0
+White, Pat MIA QB, 4, 0.3, 0, 0, 3, 0, 0, 54, 16, 0, 0
+Flynn, Matt GBP QB, 1, 0.1, 51, 6, 9, 0, 0, -2, 2, 0, 0
+
+[QB=LAST,FIRST NFL POS,PTS,AVG,PYDS,COMP,ATT,PTDS,INTS,RYDS,ATT,RTDS,FUMS]
+Vick, Michael PHI QB, 372, 31.0, 3018, 233, 372, 21, 6, 676, 99, 9, 3
+Rodgers, Aaron GBP QB, 371, 26.5, 3693, 293, 447, 27, 10, 335, 57, 4, 1
+Brady, Tom NEP QB, 380, 25.3, 3701, 314, 476, 34, 4, 30, 31, 1, 1
+Manning, Peyton IND QB, 366, 24.4, 4436, 423, 639, 31, 17, 18, 18, 0, 1
+Brees, Drew NOS QB, 363, 24.2, 4424, 426, 620, 32, 21, -3, 18, 0, 1
+Rivers, Philip SDC QB, 363, 24.2, 4397, 336, 504, 30, 12, 51, 28, 0, 4
+Romo, Tony DAL QB, 134, 22.3, 1605, 148, 213, 11, 7, 38, 6, 0, 0
+Stafford, Matthew DET QB, 67, 22.3, 535, 57, 96, 6, 1, 11, 4, 1, 1
+Roethlisberger, Ben PIT QB, 241, 21.9, 2920, 225, 367, 15, 5, 152, 29, 2, 2
+Cassel, Matt KCC QB, 299, 21.4, 3001, 251, 417, 27, 5, 125, 33, 0, 1
+Orton, Kyle DEN QB, 277, 21.3, 3652, 293, 498, 20, 9, 98, 22, 0, 4
+Schaub, Matt HOU QB, 309, 20.6, 4116, 347, 552, 23, 12, 27, 20, 0, 3
+Manning, Eli NYG QB, 308, 20.5, 3759, 322, 510, 30, 24, 59, 28, 0, 5
+Ryan, Matt ATL QB, 306, 20.4, 3469, 335, 539, 26, 9, 115, 44, 0, 3
+Freeman, Josh TBB QB, 306, 20.4, 3196, 270, 448, 23, 6, 353, 64, 0, 2
+Flacco, Joe BAL QB, 303, 20.2, 3497, 292, 470, 25, 9, 83, 40, 1, 4
+Fitzpatrick, Ryan BUF QB, 263, 20.2, 2992, 255, 441, 23, 15, 271, 41, 0, 5
+Garrard, David JAC QB, 281, 20.1, 2734, 236, 366, 23, 15, 270, 67, 5, 4
+Cutler, Jay CHI QB, 271, 19.4, 3106, 240, 393, 23, 14, 224, 49, 1, 6
+Hill, Shaun DET QB, 194, 19.4, 2428, 229, 377, 15, 11, 112, 20, 0, 1
+Palmer, Carson CIN QB, 289, 19.3, 3665, 330, 541, 25, 18, 47, 30, 0, 2
+Bouman, Todd JAC QB, 19, 19.0, 222, 18, 34, 2, 2, 8, 2, 0, 0
+Kitna, Jon DAL QB, 206, 18.7, 2365, 209, 318, 16, 12, 150, 30, 1, 1
+McNabb, Donovan WAS QB, 225, 17.3, 3377, 275, 472, 14, 15, 151, 29, 0, 1
+Sanchez, Mark NYJ QB, 259, 17.3, 3291, 278, 507, 17, 13, 105, 30, 3, 1
+Bradford, Sam STL QB, 244, 16.3, 3357, 335, 554, 18, 14, 63, 27, 1, 2
+Smith, Alex SFO QB, 154, 15.4, 2094, 189, 313, 12, 10, 61, 17, 0, 2
+Smith, Troy SFO QB, 92, 15.3, 1176, 73, 145, 5, 4, 121, 23, 1, 0
+Campbell, Jason OAK QB, 182, 15.2, 2232, 179, 304, 12, 8, 188, 42, 1, 1
+Henne, Chad MIA QB, 209, 14.9, 3227, 296, 475, 15, 17, 52, 35, 0, 2
+McCoy, Colt CLE QB, 102, 14.6, 1367, 115, 181, 5, 6, 117, 24, 1, 0
+Hasselbeck, Matt SEA QB, 195, 13.9, 2998, 266, 444, 12, 17, 60, 23, 3, 5
+Collins, Kerry TEN QB, 125, 13.9, 1523, 132, 239, 12, 8, -1, 8, 0, 2
+Kolb, Kevin PHI QB, 78, 13.0, 1035, 97, 153, 6, 4, 57, 12, 0, 2
+Young, Vince TEN QB, 114, 12.7, 1255, 93, 156, 10, 3, 125, 25, 0, 4
+McGee, Stephen DAL QB, 12, 12.0, 111, 11, 17, 1, 0, 19, 4, 0, 0
+Stanton, Drew DET QB, 68, 11.3, 780, 69, 119, 4, 3, 113, 18, 1, 1
+Gradkowski, Bruce OAK QB, 66, 11.0, 1059, 83, 158, 5, 7, 41, 12, 0, 1
+Favre, Brett MIN QB, 138, 10.6, 2509, 217, 358, 11, 19, 8, 18, 0, 5
+Batch, Charlie PIT QB, 31, 10.3, 352, 29, 49, 3, 3, 30, 7, 0, 0
+Grossman, Rex WAS QB, 51, 10.2, 548, 48, 89, 5, 3, 4, 2, 0, 2
+St. Pierre, Brian CAR QB, 10, 10.0, 173, 13, 28, 1, 2, , , , 
+Tebow, Tim DEN QB, 78, 9.8, 449, 25, 46, 3, 1, 133, 30, 5, 0
+Anderson, Derek ARI QB, 116, 9.7, 2065, 169, 327, 7, 10, 25, 5, 0, 3
+Skelton, John ARI QB, 32, 8.0, 570, 46, 101, 1, 1, 40, 8, 0, 1
+Jackson, Tarvaris MIN QB, 32, 8.0, 341, 34, 58, 3, 4, 63, 7, 0, 0
+Moore, Matt CAR QB, 47, 7.8, 857, 79, 143, 5, 10, 25, 5, 0, 2
+Wallace, Seneca CLE QB, 54, 7.7, 693, 63, 100, 4, 2, 9, 7, 0, 0
+Webb, Joe MIN QB, 30, 7.5, 332, 34, 57, 0, 2, 85, 13, 2, 0
+Delhomme, Jake CLE QB, 37, 7.4, 872, 93, 149, 2, 7, -2, 8, 0, 1
+Edwards, Trent JAC QB, 19, 6.3, 381, 43, 76, 1, 4, 40, 10, 0, 0
+McCown, Luke JAC QB, 6, 6.0, 120, 11, 19, 0, 0, 4, 1, 0, 0
+Clausen, Jimmy CAR QB, 61, 5.1, 1376, 138, 266, 2, 8, 57, 23, 0, 2
+Whitehurst, Charlie SEA QB, 25, 5.0, 315, 35, 63, 1, 3, 13, 12, 1, 0
+Flynn, Matt GBP QB, 34, 4.9, 433, 40, 66, 3, 2, 26, 9, 0, 1
+Dixon, Dennis PIT QB, 9, 4.5, 254, 22, 32, 0, 1, 32, 5, 0, 1
+Thigpen, Tyler MIA QB, 17, 4.2, 266, 23, 41, 1, 2, 52, 10, 0, 0
+Pike, Tony CAR QB, 2, 2.0, 47, 6, 12, 0, 0, , , , 
+Hall, Max ARI QB, 6, 1.0, 370, 39, 78, 1, 6, -5, 1, 0, 2
+Carr, David SFO QB, 1, 1.0, 67, 5, 13, 0, 1, , , , 
+Johnson, Josh TBB QB, 5, 0.6, 111, 14, 16, 0, 0, 39, 4, 0, 0
+Smith, Rusty TEN QB, 1, 0.5, 200, 20, 40, 0, 4, , , , 
+Hanie, Caleb CHI QB, 1, 0.5, 55, 5, 7, 0, 0, -1, 1, 0, 0
+Daniel, Chase NOS QB, 1, 0.1, , , , , , 16, 1, 0, 0
+
+[RB=LAST,FIRST NFL POS,PTS,AVG,RYDS,ATT,RTDS,FUMS,CYDS,RECS,CTDS,FUMS2,TGT]
+Westbrook, Brian PHI RB, 258, 19.8, 886, 220, 9, 0, 390, 52, 5, 0, 70
+Forte, Matt CHI RB, 290, 19.3, 1181, 302, 8, 1, 459, 61, 4, 1, 73
+Williams, DeAngelo CAR RB, 285, 19.0, 1340, 249, 18, 0, 121, 22, 2, 0, 30
+Jones-Drew, Maurice JAC RB, 266, 17.7, 746, 174, 12, 2, 555, 61, 2, 2, 73
+Jones, Thomas NYJ RB, 263, 17.5, 1289, 280, 13, 1, 206, 35, 2, 1, 40
+Turner, Michael ATL RB, 247, 16.5, 1491, 352, 16, 1, 41, 6, 0, 1, 9
+Gore, Frank SFO RB, 214, 16.5, 978, 229, 6, 3, 367, 42, 2, 3, 65
+Jackson, Steven STL RB, 181, 16.5, 882, 224, 5, 3, 325, 36, 1, 3, 56
+Bush, Reggie NOS RB, 164, 16.4, 404, 106, 2, 2, 440, 52, 4, 2, 73
+Tomlinson, Ladainian SDC RB, 244, 16.3, 1014, 278, 8, 0, 426, 52, 1, 0, 77
+Johnson, Chris TEN RB, 243, 16.2, 1228, 251, 9, 1, 260, 43, 1, 1, 62
+Slaton, Steve HOU RB, 243, 16.2, 1190, 248, 8, 1, 341, 45, 1, 1, 53
+Peterson, Adrian MIN RB, 240, 16.0, 1654, 343, 9, 4, 125, 21, 0, 4, 39
+Barber, Marion DAL RB, 221, 15.8, 872, 235, 7, 2, 397, 50, 2, 2, 59
+Jacobs, Brandon NYG RB, 201, 15.5, 1089, 219, 15, 1, 36, 6, 0, 1, 12
+Portis, Clinton WAS RB, 227, 15.1, 1407, 313, 8, 2, 218, 28, 0, 2, 36
+Lynch, Marshawn BUF RB, 227, 15.1, 1047, 251, 8, 1, 300, 47, 1, 1, 67
+Faulk, Kevin NEP RB, 184, 13.1, 507, 83, 3, 0, 478, 57, 3, 0, 73
+Brown, Ronnie MIA RB, 195, 13.0, 859, 203, 10, 1, 239, 29, 0, 1, 38
+Smith, Kevin DET RB, 187, 12.5, 883, 211, 7, 1, 279, 36, 0, 1, 49
+Thomas, Pierre NOS RB, 186, 12.4, 625, 129, 9, 1, 284, 31, 3, 1, 41
+Johnson, Larry KCC RB, 134, 12.2, 856, 183, 5, 1, 74, 12, 0, 1, 14
+Rhodes, Dominic IND RB, 180, 12.0, 538, 152, 6, 0, 302, 45, 3, 0, 59
+Ward, Derrick NYG RB, 177, 11.8, 948, 167, 2, 0, 370, 39, 0, 0, 53
+Graham, Earnest TBB RB, 118, 11.8, 563, 132, 4, 2, 174, 23, 0, 2, 33
+Addai, Joseph IND RB, 122, 11.1, 540, 154, 5, 1, 151, 23, 1, 1, 37
+White, LenDale TEN RB, 163, 10.9, 748, 193, 15, 1, 16, 5, 0, 1, 10
+Morris, Sammy NEP RB, 130, 10.8, 642, 132, 7, 1, 161, 17, 0, 1, 24
+McClain, Le'Ron BAL RB, 161, 10.7, 837, 206, 8, 1, 123, 19, 1, 1, 30
+Moore, Mewelde PIT RB, 156, 10.4, 565, 136, 5, 0, 310, 39, 1, 0, 52
+Grant, Ryan GBP RB, 154, 10.3, 1097, 293, 4, 2, 93, 15, 1, 2, 19
+Taylor, Chester MIN RB, 153, 10.2, 389, 97, 4, 2, 380, 44, 2, 2, 54
+McFadden, Darren OAK RB, 120, 10.0, 497, 112, 4, 1, 275, 27, 0, 1, 35
+Hightower, Tim ARI RB, 150, 10.0, 396, 140, 10, 0, 230, 33, 0, 0, 49
+Washington, Leon NYJ RB, 148, 9.9, 388, 66, 5, 2, 326, 41, 2, 2, 54
+Lewis, Jamal CLE RB, 146, 9.7, 908, 256, 4, 1, 178, 23, 0, 1, 31
+McGahee, Willis BAL RB, 126, 9.7, 647, 166, 6, 3, 148, 22, 0, 3, 29
+Stewart, Jonathan CAR RB, 138, 9.2, 779, 166, 9, 1, 47, 8, 0, 1, 16
+Parker, Willie PIT RB, 92, 9.2, 673, 186, 4, 0, 15, 4, 0, 0, 10
+Benson, Cedric CIN RB, 96, 8.7, 636, 189, 1, 1, 166, 18, 0, 1, 24
+Williams, Ricky MIA RB, 128, 8.5, 609, 151, 4, 2, 216, 28, 1, 2, 37
+Norwood, Jerious ATL RB, 125, 8.3, 433, 91, 2, 1, 316, 35, 2, 1, 52
+Hillis, Peyton DEN RB, 98, 8.2, 343, 68, 5, 0, 179, 14, 1, 0, 19
+Jackson, Fred BUF RB, 122, 8.1, 424, 102, 3, 1, 317, 36, 0, 1, 43
+Arrington, J.J. ARI RB, 78, 7.8, 179, 29, 1, 0, 236, 28, 1, 0, 36
+Jones, Felix DAL RB, 46, 7.7, 266, 30, 3, 0, 10, 2, 0, 0, 2
+Fargas, Justin OAK RB, 97, 7.5, 844, 213, 1, 1, 52, 10, 0, 1, 15
+Rice, Ray BAL RB, 98, 7.5, 454, 107, 0, 1, 273, 33, 0, 1, 42
+Green, Ahman HOU RB, 58, 7.2, 294, 74, 3, 0, 32, 11, 0, 0, 14
+Morris, Maurice SEA RB, 85, 7.1, 529, 117, 0, 0, 110, 16, 2, 0, 22
+Buckhalter, Correll PHI RB, 92, 7.1, 306, 66, 2, 0, 265, 23, 1, 0, 29
+Green-Ellis, BenJarvus NEP RB, 60, 6.7, 275, 74, 5, 0, 37, 3, 0, 0, 6
+Sproles, Darren SDC RB, 100, 6.7, 215, 47, 0, 2, 325, 27, 4, 2, 32
+Jones, Julius SEA RB, 93, 6.6, 692, 156, 2, 2, 66, 14, 0, 2, 25
+Jordan, Lamont NEP RB, 44, 6.3, 299, 60, 3, 0, , , , 0, 
+Taylor, Fred JAC RB, 80, 6.2, 556, 143, 1, 1, 98, 16, 0, 1, 22
+Torain, Ryan DEN RB, 12, 6.0, 69, 15, 1, 0, , , , 0, 
+James, Edgerrin ARI RB, 71, 5.9, 414, 119, 3, 2, 79, 11, 0, 2, 17
+Choice, Tashard DAL RB, 87, 5.8, 416, 79, 2, 0, 177, 20, 0, 0, 29
+Charles, Jamaal KCC RB, 84, 5.6, 348, 64, 0, 2, 272, 27, 1, 2, 39
+Jackson, Brandon GBP RB, 73, 5.6, 248, 45, 1, 0, 185, 30, 0, 0, 39
+Williams, Carnell TBB RB, 27, 5.4, 155, 51, 2, 0, 6, 2, 0, 0, 2
+Pittman, Antonio STL RB, 54, 4.9, 283, 76, 0, 0, 129, 18, 0, 0, 26
+Betts, Ladell WAS RB, 59, 4.9, 200, 60, 1, 1, 193, 20, 0, 1, 31
+Darby, Kenneth STL RB, 41, 4.6, 120, 29, 0, 1, 174, 17, 0, 1, 19
+Perry, Chris CIN RB, 58, 4.5, 264, 102, 2, 3, 76, 21, 0, 3, 34
+Bush, Michael OAK RB, 59, 4.5, 242, 67, 1, 1, 156, 18, 0, 1, 29
+Cobbs, Patrick MIA RB, 64, 4.3, 88, 12, 1, 0, 261, 17, 2, 0, 25
+Young, Selvin DEN RB, 34, 4.2, 303, 61, 1, 1, 16, 3, 0, 1, 8
+Smith, Kolby KCC RB, 28, 4.0, 100, 35, 1, 0, 52, 10, 0, 0, 11
+Weaver, Leonard SEA RB, 51, 3.9, 121, 28, 0, 1, 192, 16, 2, 1, 27
+Johnson, Rudi DET RB, 53, 3.8, 237, 76, 1, 0, 88, 12, 1, 0, 14
+Bell, Tatum DEN RB, 23, 3.8, 163, 36, 0, 0, 26, 6, 0, 0, 9
+Stecker, Aaron NOS RB, 23, 3.8, 43, 8, 0, 0, 52, 9, 1, 0, 12
+Harrison, Jerome CLE RB, 52, 3.7, 245, 32, 1, 0, 117, 10, 1, 0, 14
+Bell, Mike NOS RB, 11, 3.7, 32, 10, 1, 0, 14, 1, 0, 0, 1
+Duckett, T.J. SEA RB, 53, 3.5, 159, 56, 7, 0, 0, 0, 0, 0, 1
+Lumpkin, Kregg GBP RB, 7, 3.5, 19, 1, 0, 0, 22, 3, 0, 0, 3
+Bradshaw, Ahmad NYG RB, 48, 3.4, 327, 57, 1, 0, 44, 4, 1, 0, 5
+Askew, B.J. TBB RB, 29, 3.2, 14, 6, 2, 0, 62, 12, 0, 0, 16
+Foster, De'shaun SFO RB, 44, 3.1, 190, 67, 0, 1, 113, 13, 1, 1, 17
+Wright, Jason CLE RB, 46, 3.1, 85, 23, 0, 0, 156, 22, 1, 0, 37
+Tolbert, Mike SDC RB, 36, 3.0, 37, 13, 0, 0, 171, 13, 1, 0, 15
+Griffith, Justin OAK RB, 21, 3.0, 2, 2, 0, 0, 85, 9, 1, 0, 13
+McKie, Jason CHI RB, 32, 2.9, 26, 11, 2, 1, 64, 11, 1, 1, 15
+Maroney, Laurence NEP RB, 8, 2.7, 93, 28, 0, 0, , , , 0, 
+Jones, Greg JAC RB, 28, 2.3, 13, 2, 0, 0, 116, 13, 1, 0, 15
+Hall, Ahmand TEN RB, 32, 2.1, 18, 7, 0, 1, 127, 11, 2, 1, 15
+Mendenhall, Rashard PIT RB, 8, 2.0, 58, 19, 0, 0, 17, 2, 0, 0, 3
+Robinson, Michael SFO RB, 29, 1.9, 48, 18, 0, 1, 159, 15, 0, 1, 17
+Karney, Mike NOS RB, 20, 1.8, 10, 8, 2, 0, 11, 8, 0, 0, 11
+Dorsey, DeDe CIN RB, 7, 1.8, 8, 5, 0, 0, 49, 2, 0, 0, 2
+Hester, Jacob SDC RB, 25, 1.7, 58, 11, 0, 1, 72, 10, 1, 1, 10
+Sellers, Mike WAS RB, 26, 1.7, 24, 6, 0, 1, 98, 12, 1, 1, 15
+Russell, Gary PIT RB, 16, 1.5, 56, 24, 2, 0, -2, 1, 0, 0, 2
+Simpson, Chad IND RB, 15, 1.5, 45, 15, 1, 0, 30, 3, 0, 0, 4
+Vickers, Lawrence CLE RB, 17, 1.5, 29, 9, 0, 0, 78, 10, 0, 0, 15
+Hall, Korey GBP RB, 15, 1.5, , , , 0, 38, 7, 1, 0, 7
+Snelling, Jason ATL RB, 21, 1.4, 62, 15, 0, 0, 89, 8, 0, 0, 11
+Leach, Vonta HOU RB, 21, 1.4, 1, 1, 1, 0, 100, 11, 0, 0, 17
+Jones, Kevin CHI RB, 12, 1.2, 109, 34, 0, 0, 5, 2, 0, 0, 2
+Polite, Lousaka MIA RB, 12, 1.2, 68, 17, 0, 0, 26, 5, 0, 0, 7
+Owens, Montell JAC RB, 18, 1.2, 43, 2, 2, 0, 10, 1, 0, 0, 2
+Kuhn, John GBP RB, 16, 1.1, 10, 8, 1, 0, 16, 3, 1, 0, 7
+Eckel, Kyle PHI RB, 4, 1.0, 57, 16, 0, 0, , , , 0, 
+Taylor, Chris FA RB, 3, 1.0, 37, 14, 0, 0, , , , 0, 
+Chatman, Jesse NYJ RB, 3, 1.0, 8, 5, 0, 0, 5, 2, 0, 0, 2
+Gado, Samkon FA RB, 1, 1.0, 4, 2, 0, 0, -1, 1, 0, 0, 1
+Booker, Lorenzo PHI RB, 9, 0.9, 53, 20, 0, 0, 11, 6, 0, 0, 10
+Felton, Jerome DET RB, 10, 0.9, 0, 1, 0, 0, 48, 7, 0, 0, 7
+Hedgecock, Madison NYG RB, 14, 0.9, 0, 1, 0, 0, 41, 6, 1, 0, 13
+Peterson, Adrian CHI RB, 11, 0.8, 83, 17, 0, 0, 17, 4, 0, 0, 8
+Savage, Dantrell FA RB, 6, 0.8, 53, 15, 0, 0, 0, 2, 0, 0, 2
+Smith, Clifton TBB RB, 6, 0.8, 40, 8, 0, 3, 24, 4, 0, 3, 5
+Ganther, Quinton TEN RB, 10, 0.8, 34, 5, 0, 0, 40, 3, 0, 0, 3
+Alexander, Shaun FA RB, 3, 0.8, 24, 11, 0, 0, 9, 1, 0, 0, 1
+Mughelli, Ovie ATL RB, 12, 0.8, 16, 5, 0, 0, 57, 8, 0, 0, 9
+Wynn, DeShawn GBP RB, 3, 0.8, 4, 1, 0, 0, 14, 2, 0, 0, 2
+Tahi, Naufahu MIN RB, 12, 0.8, 0, 0, 0, 1, 33, 14, 0, 1, 18
+Moats, Ryan HOU RB, 4, 0.6, 56, 14, 0, 0, 0, 0, 0, 0, 1
+Watson, Kenny CIN RB, 6, 0.6, 55, 14, 0, 0, 4, 3, 0, 0, 9
+Schmitt, Owen SEA RB, 9, 0.6, 21, 5, 0, 0, 29, 6, 0, 0, 8
+Hoover, Brad CAR RB, 9, 0.6, 18, 9, 0, 0, 39, 6, 0, 0, 11
+Hart, Mike IND RB, 3, 0.6, 9, 2, 0, 0, 18, 1, 0, 0, 1
+Anderson, Deon DAL RB, 8, 0.6, 3, 2, 0, 0, 7, 2, 1, 0, 3
+Davis, Carey PIT RB, 6, 0.5, 24, 11, 0, 0, 13, 4, 0, 0, 5
+Norris, Moran DET RB, 5, 0.5, 1, 1, 0, 0, 16, 4, 0, 0, 7
+Lawton, Luke OAK RB, 8, 0.5, , , , 0, 30, 6, 0, 0, 11
+Wolfe, Garrett CHI RB, 5, 0.4, 69, 15, 0, 0, , , , 0, 
+Richardson, Tony NYJ RB, 6, 0.4, 65, 10, 0, 0, 4, 1, 0, 0, 5
+Bennett, Michael SDC RB, 2, 0.4, 12, 7, 0, 0, 2, 1, 0, 0, 1
+Davis, Jason CHI RB, 2, 0.4, 0, 1, 0, 0, 12, 1, 0, 0, 0
+Evans, Heath NEP RB, 4, 0.3, 23, 11, 0, 0, 28, 1, 0, 0, 2
+Ali, Charles CLE RB, 4, 0.3, , , , 0, 11, 3, 0, 0, 5
+McHugh, Sean PIT RB, 4, 0.3, , , , 0, 24, 3, 0, 0, 4
+Washington, Chauncey JAC RB, 1, 0.2, 9, 4, 0, 0, 9, 1, 0, 0, 1
+Castille, Tim ARI RB, 3, 0.2, , , , 0, 6, 3, 0, 0, 3
+McIntyre, Corey BUF RB, 2, 0.2, , , , 0, -1, 2, 0, 0, 3
+Smith, Terrelle ARI RB, 3, 0.2, , , , 0, 24, 2, 0, 0, 6
+Cartwright, Rock WAS RB, 1, 0.1, 14, 5, 0, 0, -7, 1, 0, 0, 1
+Dugan, Jeff MIN RB, 1, 0.1, 6, 3, 0, 0, 3, 1, 0, 0, 1
+Battle, Jackie KCC RB, 1, 0.1, , , , 0, -2, 1, 0, 0, 1
+Leonard, Brian STL RB, 0, 0.0, 7, 2, 0, 0, , , , 0, 
+Davenport, Najeh FA RB, 0, 0.0, 5, 2, 0, 0, , , , 0, 
+Forsett, Justin SEA RB, 0, 0.0, , , , , , , , , 
+Houser, Kevin NOS RB, 0, 0.0, , , , , , , , , 
+Kreider, Dan FA RB, 0, 0.0, 0, 1, 0, 0, 0, 0, 0, 0, 5
+Massey, Chris STL RB, 0, 0.0, , , , , , , , , 
+Omon, Xavier BUF RB, 0, 0.0, 0, 2, 0, 0, , , , 0, 
+Sobomehin, Olaniyi NOS RB, 0, 0.0, 0, 0, 0, 1, 8, 2, 0, 1, 3
+
+[RB=LAST,FIRST NFL POS,PTS,AVG,RYDS,ATT,RTDS,FUMS,CYDS,RECS,CTDS,FUMS2,TGT]
+Johnson, Chris TEN RB, 357, 23.8, 1872, 322, 12, 2, 483, 47, 2, 2, 65
+Jones-Drew, Maurice JAC RB, 308, 20.5, 1309, 296, 15, 1, 368, 52, 1, 1, 69
+Rice, Ray BAL RB, 305, 20.3, 1269, 240, 7, 3, 683, 74, 1, 3, 94
+Peterson, Adrian MIN RB, 300, 20.0, 1335, 306, 17, 6, 435, 42, 0, 6, 56
+Gore, Frank SFO RB, 244, 18.8, 1013, 206, 8, 2, 381, 50, 3, 2, 71
+Jackson, Steven STL RB, 230, 16.4, 1361, 305, 4, 2, 314, 50, 0, 2, 72
+Addai, Joseph IND RB, 244, 16.3, 828, 219, 10, 1, 336, 51, 3, 1, 63
+Williams, Ricky MIA RB, 233, 15.5, 1090, 229, 11, 2, 260, 32, 2, 2, 48
+Williams, DeAngelo CAR RB, 198, 15.2, 1117, 216, 7, 3, 252, 29, 0, 3, 41
+Brown, Ronnie MIA RB, 136, 15.1, 648, 147, 8, 1, 98, 14, 0, 1, 20
+Grant, Ryan GBP RB, 216, 14.4, 1202, 271, 10, 1, 197, 25, 0, 1, 30
+Jones, Thomas NYJ RB, 213, 14.2, 1324, 305, 12, 0, 58, 10, 0, 0, 18
+Benson, Cedric CIN RB, 184, 14.2, 1251, 301, 6, 0, 111, 17, 0, 0, 24
+Slaton, Steve HOU RB, 155, 14.1, 437, 131, 3, 5, 417, 44, 4, 5, 55
+Thomas, Pierre NOS RB, 192, 13.7, 793, 147, 6, 1, 302, 39, 2, 1, 45
+Turner, Michael ATL RB, 148, 13.5, 871, 178, 10, 2, 35, 5, 0, 2, 7
+Smith, Kevin DET RB, 175, 13.5, 747, 217, 4, 2, 409, 40, 1, 2, 56
+Charles, Jamaal KCC RB, 182, 13.0, 861, 165, 5, 3, 294, 39, 1, 3, 55
+Forte, Matt CHI RB, 195, 13.0, 828, 242, 4, 3, 448, 54, 0, 3, 65
+Tomlinson, LaDainian SDC RB, 167, 12.8, 729, 221, 12, 2, 137, 18, 0, 2, 28
+Hightower, Tim ARI RB, 192, 12.8, 574, 137, 8, 4, 424, 61, 0, 4, 77
+Mendenhall, Rashard PIT RB, 186, 12.4, 1014, 222, 7, 3, 235, 24, 1, 3, 29
+Stewart, Jonathan CAR RB, 181, 12.1, 1008, 205, 9, 2, 139, 18, 1, 2, 25
+Jackson, Fred BUF RB, 179, 11.9, 850, 205, 2, 2, 356, 44, 1, 2, 58
+Bush, Reggie NOS RB, 155, 11.9, 355, 65, 5, 2, 335, 47, 3, 2, 67
+Harrison, Jerome CLE RB, 151, 11.6, 735, 161, 4, 2, 200, 32, 2, 2, 48
+Barber, Marion DAL RB, 161, 11.5, 841, 200, 7, 2, 207, 25, 0, 2, 32
+Sproles, Darren SDC RB, 163, 10.9, 325, 91, 3, 1, 497, 45, 4, 1, 56
+Moreno, Knowshon DEN RB, 158, 10.5, 897, 233, 5, 4, 165, 25, 2, 4, 38
+Bradshaw, Ahmad NYG RB, 145, 10.4, 765, 156, 7, 2, 174, 19, 0, 2, 27
+Jones, Julius SEA RB, 135, 10.4, 602, 163, 2, 0, 229, 34, 2, 0, 41
+Williams, Carnell TBB RB, 154, 10.3, 776, 190, 4, 0, 184, 25, 3, 0, 33
+Westbrook, Brian PHI RB, 72, 10.3, 257, 56, 1, 0, 161, 21, 1, 0, 30
+McCoy, LeSean PHI RB, 148, 9.9, 633, 154, 4, 1, 303, 38, 0, 1, 53
+Forsett, Justin SEA RB, 148, 9.9, 545, 104, 4, 1, 336, 39, 1, 1, 54
+Jacobs, Brandon NYG RB, 146, 9.7, 835, 224, 5, 1, 184, 18, 1, 1, 31
+Maroney, Laurence NEP RB, 140, 9.3, 757, 194, 9, 4, 99, 14, 0, 4, 17
+Snelling, Jason ATL RB, 120, 9.2, 466, 117, 4, 1, 238, 27, 1, 1, 36
+Wells, Chris ARI RB, 135, 9.0, 774, 170, 7, 2, 143, 12, 0, 2, 15
+Portis, Clinton WAS RB, 70, 8.8, 494, 124, 1, 1, 57, 9, 1, 1, 12
+Buckhalter, Correll DEN RB, 110, 8.5, 624, 114, 1, 2, 237, 29, 0, 2, 34
+Washington, Leon NYJ RB, 56, 8.0, 330, 71, 0, 1, 131, 15, 0, 1, 26
+McGahee, Willis BAL RB, 119, 7.9, 377, 93, 9, 1, 85, 15, 2, 1, 22
+Lynch, Marshawn BUF RB, 93, 7.8, 450, 119, 2, 1, 177, 27, 0, 1, 35
+Taylor, Chester MIN RB, 116, 7.7, 320, 86, 1, 0, 372, 42, 1, 0, 56
+Faulk, Kevin NEP RB, 112, 7.5, 335, 62, 2, 0, 301, 37, 1, 0, 53
+Bell, Mike NOS RB, 88, 7.3, 626, 155, 5, 2, 14, 2, 0, 2, 2
+Fargas, Justin OAK RB, 88, 7.3, 491, 129, 3, 0, 113, 17, 0, 0, 21
+Taylor, Fred NEP RB, 36, 7.2, 236, 56, 2, 0, 17, 2, 0, 0, 3
+Lewis, Jamal CLE RB, 64, 7.1, 500, 143, 0, 0, 88, 8, 0, 0, 11
+Brown, Donald IND RB, 70, 7.0, 285, 74, 3, 0, 169, 11, 0, 0, 14
+Ganther, Quinton WAS RB, 49, 7.0, 172, 50, 3, 0, 92, 8, 0, 0, 9
+Ogbonnaya, Chris STL RB, 7, 7.0, 45, 9, 0, 0, 19, 1, 0, 0, 2
+Jones, Felix DAL RB, 90, 6.9, 594, 101, 2, 2, 116, 16, 0, 2, 19
+McFadden, Darren OAK RB, 75, 6.8, 347, 99, 1, 3, 245, 21, 0, 3, 34
+Moats, Ryan HOU RB, 84, 6.5, 373, 97, 4, 2, 106, 13, 1, 2, 14
+Betts, Ladell WAS RB, 65, 6.5, 210, 56, 2, 0, 179, 17, 0, 0, 20
+Ward, Derrick TBB RB, 87, 6.2, 414, 115, 1, 0, 150, 20, 2, 0, 24
+Morris, Maurice DET RB, 80, 6.2, 319, 77, 2, 0, 169, 21, 0, 0, 32
+Morris, Sammy NEP RB, 68, 6.2, 310, 66, 2, 1, 167, 16, 0, 1, 24
+Bush, Michael OAK RB, 91, 6.1, 571, 113, 3, 2, 101, 16, 0, 2, 18
+Norwood, Jerious ATL RB, 54, 6.0, 225, 67, 0, 1, 163, 15, 1, 1, 18
+Evans, Heath NOS RB, 34, 5.7, 16, 5, 1, 0, 70, 10, 2, 0, 13
+Foster, Arian HOU RB, 28, 5.6, 138, 34, 1, 1, 67, 5, 0, 1, 5
+Weaver, Leonard PHI RB, 81, 5.4, 321, 69, 2, 0, 140, 15, 2, 0, 25
+Jackson, Brandon GBP RB, 59, 5.4, 94, 31, 2, 0, 158, 19, 1, 0, 24
+Choice, Tashard DAL RB, 79, 5.3, 349, 64, 3, 0, 132, 15, 0, 0, 22
+Johnson, Larry CIN RB, 67, 5.2, 524, 169, 0, 1, 80, 15, 0, 1, 20
+Cartwright, Rock WAS RB, 74, 4.9, 225, 63, 0, 0, 223, 26, 1, 0, 31
+Jennings, Chris CLE RB, 36, 4.5, 182, 54, 1, 0, 56, 9, 0, 0, 13
+Brown, Chris HOU RB, 57, 4.4, 267, 79, 3, 1, 74, 16, 0, 1, 20
+Leonard, Brian CIN RB, 55, 4.2, 76, 26, 0, 1, 217, 30, 0, 1, 34
+Tolbert, Mike SDC RB, 60, 4.0, 148, 25, 1, 0, 183, 14, 2, 0, 17
+Moore, Mewelde PIT RB, 59, 3.9, 118, 35, 0, 0, 145, 20, 2, 0, 29
+Greene, Shonn NYJ RB, 49, 3.8, 479, 96, 2, 3, 0, 0, 0, 3, 4
+McClain, Le'Ron BAL RB, 56, 3.7, 175, 45, 2, 0, 135, 20, 0, 0, 26
+Hilliard, Lex MIA RB, 52, 3.5, 80, 22, 1, 0, 147, 19, 1, 0, 19
+Scott, Bernard CIN RB, 40, 3.3, 301, 68, 0, 0, 67, 5, 0, 0, 6
+Parker, Willie PIT RB, 41, 3.2, 298, 86, 0, 1, 64, 6, 1, 1, 7
+Coffee, Glen SFO RB, 42, 3.2, 214, 81, 1, 0, 76, 11, 0, 0, 18
+Savage, Dantrell KCC RB, 15, 3.0, 45, 10, 0, 1, 51, 7, 0, 1, 11
+Green, Ahman GBP RB, 20, 2.9, 118, 29, 1, 0, 18, 3, 0, 0, 5
+Bell, Kahlil CHI RB, 17, 2.8, 176, 29, 0, 0, 4, 1, 0, 0, 3
+Jennings, Rashad JAC RB, 38, 2.7, 193, 36, 1, 0, 70, 13, 0, 0, 14
+White, LenDale TEN RB, 31, 2.6, 221, 63, 2, 1, 14, 3, 0, 1, 5
+Darby, Kenneth STL RB, 37, 2.5, 152, 27, 0, 0, 96, 18, 0, 0, 23
+Davis, James CLE RB, 5, 2.5, 15, 9, 0, 0, 5, 4, 0, 0, 5
+Griffith, Justin SEA RB, 29, 2.4, 6, 4, 0, 1, 109, 17, 1, 1, 25
+Sutton, Tyrell CAR RB, 16, 2.3, 68, 12, 0, 0, 62, 6, 0, 0, 11
+Wolfe, Garrett CHI RB, 18, 2.2, 120, 22, 1, 0, 12, 2, 0, 0, 3
+Mason, Marcus WAS RB, 18, 2.2, 101, 26, 0, 0, 51, 5, 0, 0, 6
+Castille, Tim KCC RB, 13, 2.2, 36, 11, 0, 1, 37, 4, 1, 1, 5
+Kuhn, John GBP RB, 28, 2.2, 18, 8, 1, 0, 43, 6, 2, 0, 6
+James, Edgerrin FA RB, 15, 2.1, 125, 46, 0, 0, 19, 3, 0, 0, 3
+Graham, Earnest TBB RB, 27, 2.1, 66, 14, 0, 0, 109, 14, 0, 0, 22
+Woodhead, Danny NYJ RB, 19, 2.1, 44, 9, 0, 0, 87, 8, 0, 0, 14
+Hamilton, Lynell NOS RB, 15, 1.9, 77, 25, 1, 0, 10, 2, 0, 0, 2
+Hoover, Brad CAR RB, 19, 1.9, 42, 13, 1, 0, 17, 3, 1, 0, 8
+Felton, Jerome DET RB, 21, 1.8, 46, 15, 0, 0, 96, 11, 0, 0, 15
+Brown, Aaron DET RB, 23, 1.6, 110, 24, 0, 0, 65, 6, 1, 0, 12
+Simpson, Chad IND RB, 23, 1.6, 102, 15, 2, 0, 1, 3, 0, 0, 4
+Cobbs, Patrick MIA RB, 8, 1.6, 36, 6, 0, 0, 23, 3, 0, 0, 4
+Polite, Lousaka MIA RB, 22, 1.5, 117, 35, 0, 0, 51, 11, 0, 0, 23
+Wright, Jason ARI RB, 23, 1.5, 17, 3, 0, 0, 52, 8, 2, 0, 10
+Stephens-Howling, LaRod ARI RB, 20, 1.3, 12, 5, 0, 1, 83, 10, 1, 1, 18
+Dugan, Jeff MIN RB, 19, 1.3, 7, 3, 0, 0, 45, 5, 2, 0, 5
+Hillis, Peyton DEN RB, 15, 1.2, 54, 13, 1, 1, 19, 4, 0, 1, 6
+Bennett, Michael SDC RB, 5, 1.2, 37, 12, 0, 0, 3, 2, 0, 0, 3
+Smith, Kolby KCC RB, 5, 1.2, 33, 15, 0, 0, 9, 2, 0, 0, 2
+Wynn, DeShawn GBP RB, 5, 1.2, 19, 6, 0, 0, 19, 2, 0, 0, 7
+Mughelli, Ovie ATL RB, 16, 1.2, 4, 2, 0, 0, 51, 7, 1, 0, 10
+Hart, Mike IND RB, 9, 1.1, 42, 16, 0, 0, 38, 3, 0, 0, 4
+Stecker, Aaron ATL RB, 8, 1.0, 15, 5, 0, 0, 34, 5, 0, 0, 5
+Green-Ellis, BenJarvus NEP RB, 10, 0.9, 92, 22, 0, 0, 11, 2, 0, 0, 5
+Rankin, Louis SEA RB, 7, 0.9, 36, 8, 0, 1, 31, 4, 0, 1, 6
+Tahi, Naufahu MIN RB, 13, 0.9, 3, 2, 0, 0, 66, 9, 0, 0, 11
+Cox, Mike KCC RB, 13, 0.9, 2, 1, 0, 0, 66, 9, 0, 0, 12
+Hester, Jacob SDC RB, 12, 0.8, 74, 21, 0, 1, 24, 9, 0, 1, 11
+Hall, Ahmand TEN RB, 12, 0.8, 5, 1, 0, 2, 77, 11, 0, 2, 15
+McIntyre, Corey BUF RB, 11, 0.8, 2, 1, 0, 0, 55, 7, 0, 0, 8
+Ringer, Javon TEN RB, 4, 0.7, 48, 8, 0, 0, , , , 0, 
+Norris, Moran SFO RB, 11, 0.7, 36, 11, 0, 0, 31, 7, 0, 0, 11
+Hall, Korey GBP RB, 8, 0.7, , , , 0, 41, 5, 0, 0, 6
+Haynes, Verron ATL RB, 5, 0.7, , , , 0, 20, 3, 0, 0, 4
+Hedgecock, Madison NYG RB, 10, 0.7, , , , 0, 23, 4, 1, 0, 9
+Jordan, Lamont DEN RB, 5, 0.6, 86, 25, 0, 0, 0, 0, 0, 0, 4
+Buckley, Eldra PHI RB, 9, 0.6, 44, 15, 1, 0, , , , 0, 
+Battle, Jackie KCC RB, 3, 0.6, 21, 7, 0, 0, -3, 2, 0, 0, 2
+Peterson, Adrian CHI RB, 7, 0.5, 51, 7, 0, 0, 11, 2, 0, 0, 2
+Jones, Greg JAC RB, 7, 0.5, 23, 4, 0, 0, 14, 5, 0, 0, 10
+Karney, Mike STL RB, 7, 0.5, 8, 2, 0, 0, 16, 6, 0, 0, 9
+Richardson, Tony NYJ RB, 6, 0.4, 48, 6, 0, 0, 10, 3, 0, 0, 5
+Gado, Samkon STL RB, 6, 0.4, 26, 14, 0, 0, 25, 3, 0, 0, 3
+Robinson, Michael SFO RB, 6, 0.4, 2, 3, 0, 0, 24, 6, 0, 0, 11
+Askew, B.J. TBB RB, 2, 0.4, 0, 1, 0, 0, 3, 2, 0, 0, 2
+Ware, Danny NYG RB, 2, 0.3, 51, 8, 0, 1, -4, 1, 0, 1, 1
+Johnson, Gartrell NYG RB, 3, 0.3, 43, 13, 0, 0, 0, 0, 0, 0, 1
+Johnson, Jeremi CIN RB, 5, 0.3, 5, 3, 0, 1, 41, 6, 0, 1, 12
+Parmele, Jalen BAL RB, 1, 0.2, 17, 5, 0, 0, , , , 0, 
+Davis, Carey PIT RB, 1, 0.2, 15, 2, 0, 0, , , , 0, 
+Young, Albert MIN RB, 1, 0.2, 13, 2, 0, 0, , , , 0, 
+Eckel, Kyle NOS RB, 1, 0.2, 6, 2, 0, 0, 8, 1, 0, 0, 1
+Goodson, Mike CAR RB, 1, 0.1, 5, 9, 0, 1, 15, 2, 0, 1, 2
+Anderson, Deon DAL RB, 1, 0.1, , , , 0, 5, 1, 0, 0, 3
+Omon, Xavier SEA RB, 0, 0.0, 22, 5, 0, 0, 0, 0, 0, 0, 1
+Smith, Clifton TBB RB, 0, 0.0, 7, 4, 0, 1, 4, 2, 0, 1, 5
+Owens, Montell JAC RB, 0, 0.0, 1, 2, 0, 0, 0, 0, 0, 0, 1
+Bolen, Brock JAC RB, 0, 0.0, , , , 0, 0, 0, 0, 0, 2
+Fiammetta, Tony CAR RB, 0, 0.0, , , , 0, 0, 0, 0, 0, 3
+Henry, Chris HOU RB, 0, 0.0, , , , , , , , , 
+
+[RB=LAST,FIRST NFL POS,PTS,AVG,RYDS,ATT,RTDS,FUMS,CYDS,RECS,CTDS,FUMS2,TGT]
+Foster, Arian HOU RB, 350, 23.3, 1434, 295, 14, 2, 594, 64, 2, 2, 82
+McFadden, Darren OAK RB, 261, 20.1, 1157, 223, 7, 3, 507, 47, 3, 3, 61
+McCoy, LeSean PHI RB, 292, 19.5, 1080, 207, 7, 1, 592, 78, 2, 1, 90
+Hillis, Peyton CLE RB, 287, 19.1, 1164, 264, 11, 5, 474, 60, 2, 5, 76
+Peterson, Adrian MIN RB, 265, 18.9, 1267, 269, 12, 1, 343, 34, 1, 1, 48
+Gore, Frank SFO RB, 197, 17.9, 853, 203, 3, 2, 452, 46, 2, 2, 72
+Charles, Jamaal KCC RB, 258, 17.2, 1380, 216, 4, 2, 455, 43, 3, 2, 60
+Rice, Ray BAL RB, 258, 17.2, 1146, 288, 4, 0, 556, 63, 1, 0, 81
+Jones-Drew, Maurice JAC RB, 229, 16.4, 1324, 299, 5, 2, 317, 34, 2, 2, 44
+Johnson, Chris TEN RB, 245, 16.3, 1325, 296, 11, 2, 194, 38, 0, 2, 51
+Forte, Matt CHI RB, 235, 15.7, 978, 222, 6, 2, 487, 43, 3, 2, 62
+Moreno, Knowshon DEN RB, 185, 15.4, 738, 176, 5, 2, 370, 36, 3, 2, 47
+Bradshaw, Ahmad NYG RB, 228, 15.2, 1213, 261, 8, 6, 306, 45, 0, 6, 55
+Jackson, Steven STL RB, 223, 14.9, 1196, 319, 6, 1, 344, 42, 0, 1, 55
+Mendenhall, Rashard PIT RB, 216, 14.4, 1238, 310, 11, 2, 143, 22, 0, 2, 33
+Thomas, Pierre NOS RB, 86, 14.3, 269, 83, 2, 0, 201, 29, 0, 0, 29
+Tomlinson, LaDainian NYJ RB, 210, 14.0, 914, 219, 6, 0, 368, 52, 0, 0, 79
+Torain, Ryan WAS RB, 126, 14.0, 681, 146, 4, 1, 117, 17, 2, 1, 25
+Turner, Michael ATL RB, 206, 13.7, 1304, 317, 11, 1, 85, 12, 0, 1, 19
+Addai, Joseph IND RB, 95, 13.6, 451, 105, 4, 1, 124, 19, 0, 1, 25
+Best, Jahvid DET RB, 177, 12.6, 529, 162, 4, 1, 464, 52, 2, 1, 73
+Benson, Cedric CIN RB, 183, 12.2, 1058, 300, 7, 5, 166, 25, 1, 5, 33
+Green-Ellis, BenJarvus NEP RB, 177, 11.8, 928, 209, 12, 0, 79, 11, 0, 0, 14
+Tolbert, Mike SDC RB, 176, 11.7, 735, 182, 11, 3, 216, 25, 0, 3, 29
+Jackson, Fred BUF RB, 169, 11.3, 892, 209, 5, 2, 202, 30, 2, 2, 53
+Jones, Felix DAL RB, 167, 11.1, 719, 174, 1, 1, 454, 47, 1, 1, 51
+Woodhead, Danny NEP RB, 156, 11.1, 528, 95, 5, 0, 379, 34, 1, 0, 44
+Jackson, Brandon GBP RB, 158, 10.5, 684, 183, 3, 0, 326, 41, 1, 0, 47
+Blount, LeGarrette TBB RB, 125, 10.4, 941, 182, 6, 2, 12, 3, 0, 2, 4
+Jones, Thomas KCC RB, 141, 9.4, 879, 235, 6, 1, 124, 13, 0, 1, 19
+Brown, Ronnie MIA RB, 141, 9.4, 720, 194, 5, 2, 203, 30, 0, 2, 40
+Snelling, Jason ATL RB, 122, 9.4, 307, 79, 2, 0, 277, 41, 3, 0, 47
+Williams, DeAngelo CAR RB, 55, 9.2, 361, 87, 1, 1, 61, 11, 0, 1, 13
+Mathews, Ryan SDC RB, 100, 9.1, 555, 131, 4, 3, 126, 19, 0, 3, 23
+Bush, Michael OAK RB, 118, 9.1, 518, 133, 7, 0, 160, 14, 0, 0, 19
+Williams, Carnell TBB RB, 134, 8.9, 430, 124, 2, 1, 355, 46, 1, 1, 64
+Sproles, Darren SDC RB, 132, 8.8, 227, 47, 0, 3, 494, 57, 2, 3, 73
+Portis, Clinton WAS RB, 43, 8.6, 227, 54, 2, 0, 55, 5, 0, 0, 9
+Jacobs, Brandon NYG RB, 126, 8.4, 774, 134, 8, 2, 59, 7, 0, 2, 13
+Lynch, Marshawn SEA RB, 125, 8.3, 662, 182, 6, 3, 152, 21, 0, 3, 27
+Goodson, Mike CAR RB, 124, 8.3, 438, 101, 3, 2, 321, 38, 0, 2, 54
+Ivory, Christopher NOS RB, 90, 8.2, 683, 130, 5, 2, 17, 1, 0, 2, 1
+Bush, Reggie NOS RB, 56, 8.0, 80, 27, 0, 1, 153, 29, 1, 1, 33
+Faulk, Kevin NEP RB, 16, 8.0, 45, 8, 0, 0, 62, 6, 0, 0, 10
+Hightower, Tim ARI RB, 118, 7.9, 706, 141, 5, 4, 134, 19, 0, 4, 37
+Brown, Donald IND RB, 95, 7.9, 488, 126, 2, 0, 205, 20, 0, 0, 27
+Stewart, Jonathan CAR RB, 96, 7.4, 739, 165, 2, 4, 103, 8, 1, 4, 14
+Jennings, Rashad JAC RB, 89, 7.4, 351, 62, 3, 0, 189, 22, 0, 0, 27
+Morris, Maurice DET RB, 89, 7.4, 315, 78, 4, 0, 146, 23, 0, 0, 28
+Betts, Ladell NOS RB, 59, 7.4, 150, 45, 2, 1, 141, 23, 0, 1, 30
+Williams, Ricky MIA RB, 110, 7.3, 668, 153, 2, 1, 141, 19, 1, 1, 29
+Forsett, Justin SEA RB, 109, 7.3, 495, 115, 2, 0, 227, 30, 0, 0, 44
+Williams, Keiland WAS RB, 110, 7.3, 257, 64, 3, 1, 262, 35, 2, 1, 53
+Greene, Shonn NYJ RB, 106, 7.1, 766, 185, 2, 2, 120, 16, 0, 2, 24
+Rhodes, Dominic IND RB, 13, 6.5, 124, 26, 0, 0, 4, 1, 0, 0, 4
+Barber, Marion DAL RB, 72, 6.0, 371, 110, 4, 0, 49, 11, 0, 0, 15
+McGahee, Willis BAL RB, 82, 5.9, 372, 97, 5, 2, 47, 13, 1, 2, 17
+Reece, Marcel OAK RB, 87, 5.8, 118, 28, 1, 1, 333, 25, 3, 1, 43
+James, Javarris IND RB, 57, 5.7, 112, 46, 6, 1, 63, 9, 0, 1, 11
+Smith, Kevin DET RB, 33, 5.5, 125, 33, 0, 0, 123, 11, 0, 0, 16
+Kuhn, John GBP RB, 79, 5.3, 281, 80, 4, 0, 90, 14, 2, 0, 17
+Buckhalter, Correll DEN RB, 74, 5.3, 139, 56, 2, 1, 191, 24, 2, 1, 35
+Spiller, C.J. BUF RB, 65, 5.0, 278, 71, 0, 3, 157, 24, 1, 3, 32
+Westbrook, Brian SFO RB, 69, 4.9, 261, 64, 2, 0, 136, 15, 1, 0, 20
+Taylor, Chester CHI RB, 72, 4.8, 256, 109, 3, 0, 139, 20, 0, 0, 26
+Wells, Chris ARI RB, 56, 4.7, 381, 111, 2, 0, 68, 4, 0, 0, 7
+Gerhart, Toby MIN RB, 61, 4.4, 310, 78, 1, 3, 161, 20, 0, 3, 28
+Hart, Mike IND RB, 31, 4.4, 185, 43, 1, 0, 25, 6, 0, 0, 6
+Graham, Earnest TBB RB, 51, 4.2, 99, 20, 1, 1, 130, 16, 1, 1, 19
+Choice, Tashard DAL RB, 62, 4.1, 223, 59, 3, 1, 109, 17, 0, 1, 20
+Grant, Ryan GBP RB, 4, 4.0, 45, 8, 0, 0, , , , 0, 
+Leonard, Brian CIN RB, 41, 3.7, 61, 9, 0, 0, 137, 20, 1, 0, 26
+Ward, Derrick HOU RB, 51, 3.6, 254, 47, 3, 0, 54, 6, 0, 0, 10
+Moore, Mewelde PIT RB, 53, 3.5, 99, 33, 0, 0, 205, 26, 0, 0, 31
+Starks, James GBP RB, 7, 3.5, 81, 24, 0, 0, 0, 0, 0, 0, 1
+Maroney, Laurence DEN RB, 14, 3.5, 74, 36, 0, 0, 50, 4, 0, 0, 7
+Harrison, Jerome PHI RB, 37, 3.4, 231, 50, 1, 1, 68, 7, 0, 1, 7
+Jones, Julius NOS RB, 37, 3.1, 217, 56, 0, 0, 56, 15, 0, 0, 20
+Darby, Kenneth STL RB, 40, 3.1, 100, 33, 2, 0, 61, 10, 1, 0, 13
+Stephens-Howling, LaRod ARI RB, 39, 3.0, 113, 23, 1, 0, 111, 16, 0, 0, 23
+Scott, Bernard CIN RB, 43, 2.9, 267, 56, 1, 2, 51, 10, 0, 2, 12
+Hester, Jacob SDC RB, 43, 2.9, 60, 26, 0, 0, 145, 22, 1, 0, 26
+Redman, Isaac PIT RB, 42, 2.8, 235, 50, 0, 1, 65, 8, 2, 1, 8
+Brown, Aaron DET RB, 17, 2.8, 58, 17, 0, 0, 45, 8, 0, 0, 13
+Ringer, Javon TEN RB, 40, 2.7, 234, 50, 2, 0, 37, 6, 0, 0, 7
+McClain, Le'Ron BAL RB, 35, 2.5, 85, 27, 0, 0, 130, 18, 0, 0, 23
+Sutton, Tyrell CAR RB, 19, 2.4, 58, 11, 0, 0, 49, 9, 0, 0, 9
+Sellers, Mike WAS RB, 36, 2.4, 2, 4, 0, 0, 215, 19, 0, 0, 37
+Dixon, Anthony SFO RB, 34, 2.3, 215, 59, 2, 0, 9, 4, 0, 0, 4
+Taylor, Fred NEP RB, 12, 2.0, 120, 33, 0, 0, 6, 2, 0, 0, 3
+Mughelli, Ovie ATL RB, 30, 2.0, 28, 11, 0, 0, 126, 13, 1, 0, 18
+Vaughan, Josh CAR RB, 6, 2.0, 7, 3, 1, 0, , , , 0, 
+Davis, James WAS RB, 13, 1.9, 60, 19, 0, 0, 45, 4, 0, 0, 5
+Cobbs, Patrick MIA RB, 28, 1.9, 0, 4, 0, 0, 91, 8, 2, 0, 19
+Ball, Lance DEN RB, 15, 1.7, 137, 35, 0, 0, 10, 2, 0, 0, 5
+Robinson, Michael SEA RB, 17, 1.7, 76, 10, 0, 0, 37, 8, 0, 0, 13
+Young, Albert MIN RB, 5, 1.7, 29, 13, 0, 0, 11, 2, 0, 0, 2
+Polite, Lousaka MIA RB, 22, 1.5, 58, 25, 1, 0, 54, 11, 0, 0, 16
+Larsen, Spencer DEN RB, 16, 1.5, 18, 3, 0, 0, 51, 5, 1, 0, 5
+Karim, Deji JAC RB, 14, 1.4, 108, 28, 0, 0, 10, 3, 0, 0, 7
+Washington, Leon SEA RB, 21, 1.4, 96, 26, 1, 1, 55, 6, 0, 1, 9
+Castille, Tim KCC RB, 12, 1.3, 3, 5, 0, 0, 43, 10, 0, 0, 12
+Ware, Danny NYG RB, 16, 1.2, 73, 20, 0, 0, 51, 6, 0, 0, 8
+Gronkowski, Chris DAL RB, 16, 1.2, 8, 2, 0, 0, 35, 7, 1, 0, 14
+Nance, Dimitri GBP RB, 12, 1.1, 95, 36, 0, 0, 30, 3, 0, 0, 4
+Hall, Ahmard TEN RB, 16, 1.1, 1, 1, 0, 0, 81, 11, 0, 0, 15
+Slaton, Steve HOU RB, 11, 1.0, 93, 19, 0, 0, 11, 3, 0, 0, 4
+Norwood, Jerious ATL RB, 2, 1.0, 8, 2, 0, 0, 9, 1, 0, 0, 3
+Booker, Lorenzo MIN RB, 3, 1.0, 0, 0, 0, 1, 26, 4, 0, 1, 4
+Bell, Mike CLE RB, 13, 0.9, 85, 42, 0, 0, 53, 3, 0, 0, 5
+Jones, Greg JAC RB, 14, 0.9, 4, 2, 0, 0, 47, 11, 0, 0, 11
+Evans, Heath NOS RB, 13, 0.9, 2, 2, 0, 0, 39, 6, 1, 0, 10
+Tahi, Naufahu MIN RB, 13, 0.9, 1, 1, 0, 0, 37, 5, 1, 0, 5
+Cox, Mike KCC RB, 6, 0.9, , , , 0, 27, 4, 0, 0, 4
+Felton, Jerome DET RB, 11, 0.7, 67, 21, 0, 1, 50, 7, 0, 1, 14
+Morris, Sammy NEP RB, 11, 0.7, 38, 15, 0, 1, 69, 6, 0, 1, 9
+Huggins, Kareem TBB RB, 2, 0.7, 11, 4, 0, 0, 7, 1, 0, 0, 2
+Bolen, Brock JAC RB, 2, 0.7, , , , 0, 15, 1, 0, 0, 3
+Johnson, Gartrell ATL RB, 5, 0.6, 35, 8, 0, 0, 10, 2, 0, 0, 4
+Fiammetta, Tony CAR RB, 9, 0.6, 22, 7, 0, 0, 34, 5, 0, 0, 10
+Young, Darrel WAS RB, 8, 0.6, 19, 4, 0, 0, 3, 1, 1, 0, 1
+McIntyre, Corey BUF RB, 9, 0.6, 5, 4, 1, 1, 32, 4, 0, 1, 8
+Logan, Stefan DET RB, 7, 0.5, 83, 14, 0, 1, 0, 0, 0, 1, 1
+Toston, Keith STL RB, 7, 0.5, 54, 19, 0, 0, 23, 1, 0, 0, 1
+Battle, Jackie KCC RB, 7, 0.5, 45, 16, 1, 0, 0, 0, 0, 0, 1
+Ganther, Quinton BUF RB, 5, 0.5, 24, 8, 0, 0, 9, 2, 0, 0, 3
+Richardson, Tony NYJ RB, 7, 0.5, 7, 3, 0, 0, 31, 5, 0, 0, 5
+Bennett, Michael OAK RB, 3, 0.5, 6, 1, 0, 0, 9, 2, 0, 0, 2
+Hedgecock, Madison NYG RB, 2, 0.5, , , , 0, 8, 2, 0, 0, 2
+McKnight, Joe NYJ RB, 3, 0.4, 31, 7, 0, 0, 5, 1, 0, 0, 1
+Karney, Mike STL RB, 4, 0.4, 8, 4, 0, 0, 10, 4, 0, 0, 4
+Wright, Jason ARI RB, 6, 0.4, 5, 3, 0, 1, 34, 5, 0, 1, 10
+Buckley, Eldra PHI RB, 5, 0.3, 56, 19, 0, 1, 10, 1, 0, 1, 1
+Vickers, Lawrence CLE RB, 5, 0.3, 11, 5, 0, 0, 15, 4, 0, 0, 9
+Dugan, Jeff MIN RB, 5, 0.3, 2, 2, 0, 0, 30, 4, 0, 0, 5
+Cartwright, Rock OAK RB, 3, 0.2, 16, 7, 0, 0, 10, 1, 0, 0, 3
+Conner, John NYJ RB, 2, 0.1, , , , 0, 9, 2, 0, 0, 4
+Hall, Korey GBP RB, 1, 0.1, , , , 0, 9, 1, 0, 0, 1
+Hilliard, Lex MIA RB, 1, 0.1, , , , 0, 3, 1, 0, 0, 2
+Brinkley, Curtis SDC RB, 0, 0.0, 11, 2, 0, 0, , , , 0, 
+Wolfe, Garrett CHI RB, 0, 0.0, 8, 4, 0, 0, , , , 0, 
+Caulcrick, Jehuu BUF RB, 0, 0.0, 2, 1, 0, 0, , , , 0, 
+Johnson, Larry FA* RB, 0, 0.0, 2, 5, 0, 0, , , , 0, 
+Peerman, Cedric CIN RB, 0, 0.0, 1, 1, 0, 0, 0, 0, 0, 0, 1
+Anderson, Andre FA RB, 0, 0.0, , , , , , , , , 
+Anderson, Deon MIA RB, 0, 0.0, , , , , , , , , 
+Bell, Joique NOS RB, 0, 0.0, , , , , , , , , 
+Clayton, Thomas NEP RB, 0, 0.0, 0, 1, 0, 0, , , , 0, 
+Henry, Chris FA RB, 0, 0.0, , , , , , , , , 
+Jackson, Rashawn CAR RB, 0, 0.0, , , , , , , , , 
+
+[WR=LAST,FIRST NFL POS,PTS,AVG,CYDS,RECS,CTDS,FUMS,TGT,RYDS,ATT,RTDS,FUMS2]
+Boldin, Anquan ARI WR, 255, 21.2, 1038, 89, 11, 3, 126, 67, 9, 0, 3
+Johnson, Andre HOU WR, 276, 18.4, 1427, 105, 6, 1, 157, 0, 0, 0, 1
+Fitzgerald, Larry ARI WR, 276, 18.4, 1304, 91, 10, 0, 146, , , , 0
+Smith, Steve CAR WR, 233, 17.9, 1283, 73, 6, 1, 121, 40, 5, 0, 1
+Marshall, Brandon DEN WR, 240, 17.1, 1210, 98, 6, 3, 170, -4, 2, 0, 3
+Burleson, Nate SEA WR, 17, 17.0, 60, 5, 1, 0, 9, , , , 0
+White, Roddy ATL WR, 249, 16.6, 1334, 85, 6, 1, 141, 4, 2, 0, 1
+Johnson, Calvin DET WR, 243, 16.2, 1229, 69, 10, 2, 134, -1, 3, 0, 2
+Jennings, Greg GBP WR, 243, 16.2, 1191, 75, 9, 0, 130, , , , 0
+Welker, Wes NEP WR, 238, 15.9, 1139, 110, 3, 1, 147, 26, 2, 0, 1
+Bryant, Antonio TBB WR, 231, 15.4, 1171, 80, 7, 1, 128, 22, 2, 0, 1
+Wayne, Reggie IND WR, 224, 14.9, 1130, 81, 6, 0, 129, , , , 0
+Moss, Randy NEP WR, 222, 14.8, 995, 68, 11, 2, 124, 0, 2, 0, 2
+Royal, Eddie DEN WR, 204, 14.6, 904, 80, 5, 1, 112, 109, 11, 0, 1
+Owens, Terrell DAL WR, 211, 14.1, 949, 63, 10, 1, 130, 26, 6, 0, 1
+Ward, Hines PIT WR, 208, 13.9, 977, 76, 7, 0, 119, , , , 0
+Bowe, Dwayne KCC WR, 202, 13.5, 919, 76, 7, 0, 143, , , , 0
+Moss, Santana WAS WR, 201, 13.4, 976, 73, 6, 1, 127, 27, 1, 0, 1
+Jackson, Vincent SDC WR, 200, 13.3, 1051, 57, 7, 1, 99, 39, 2, 0, 1
+Houshmandzadeh, T.J. CIN WR, 200, 13.3, 904, 92, 4, 0, 137, 9, 1, 0, 0
+Mason, Derrick BAL WR, 195, 13.0, 960, 74, 5, 1, 113, 0, 0, 0, 1
+Moore, Lance NOS WR, 194, 12.9, 837, 71, 8, 0, 109, , , , 0
+Walter, Kevin HOU WR, 189, 12.6, 876, 59, 8, 0, 94, 23, 3, 0, 0
+Colston, Marques NOS WR, 124, 12.4, 637, 40, 4, 0, 76, , , , 0
+Jones, Matt JAC WR, 144, 12.0, 750, 64, 2, 1, 107, 0, 0, 0, 1
+Driver, Donald GBP WR, 176, 11.7, 901, 68, 4, 0, 109, 4, 2, 0, 0
+Bruce, Isaac SFO WR, 175, 11.7, 825, 58, 7, 0, 104, -3, 1, 0, 0
+Cotchery, Jerricho NYJ WR, 175, 11.7, 817, 69, 5, 1, 104, 8, 2, 0, 1
+Coles, Laveranues NYJ WR, 174, 11.6, 762, 66, 6, 0, 110, 9, 2, 0, 0
+Breaston, Steve ARI WR, 171, 11.4, 912, 72, 2, 0, 106, 8, 2, 0, 0
+Evans, Lee BUF WR, 168, 11.2, 954, 58, 3, 1, 95, 22, 1, 0, 1
+Camarillo, Greg MIA WR, 123, 11.2, 613, 55, 2, 0, 83, 1, 2, 0, 0
+Jackson, DeSean PHI WR, 167, 11.1, 866, 60, 2, 2, 116, 96, 17, 1, 2
+Holmes, Santonio PIT WR, 154, 11.0, 790, 52, 5, 1, 106, 9, 2, 0, 1
+Berrian, Bernard MIN WR, 164, 10.9, 883, 44, 6, 1, 89, 26, 4, 0, 1
+Gage, Justin TEN WR, 129, 10.8, 651, 34, 6, 0, 74, , , , 0
+Muhammad, Muhsin CAR WR, 158, 10.5, 844, 58, 4, 1, 100, 0, 0, 0, 1
+Edwards, Braylon CLE WR, 156, 10.4, 872, 54, 3, 0, 133, , , , 0
+Burress, Plaxico NYG WR, 100, 10.0, 454, 35, 4, 0, 66, , , , 0
+Curtis, Kevin PHI WR, 78, 9.8, 375, 32, 2, 0, 61, , , , 0
+Harrison, Marvin IND WR, 136, 9.7, 605, 53, 5, 1, 97, 0, 0, 0, 1
+Ginn Jr., Ted MIA WR, 142, 9.5, 719, 54, 1, 0, 88, 73, 5, 2, 0
+Ocho Cinco, Chad CIN WR, 124, 9.5, 540, 53, 4, 0, 97, , , , 0
+Avery, Donnie STL WR, 131, 9.4, 644, 49, 2, 0, 95, 59, 9, 1, 0
+Holt, Torry STL WR, 140, 9.3, 706, 58, 3, 0, 109, , , , 0
+Branch, Deion SEA WR, 65, 9.3, 322, 24, 2, 0, 47, , , , 0
+Reed, Josh BUF WR, 111, 9.2, 576, 54, 1, 0, 75, , , , 0
+Gonzalez, Anthony IND WR, 137, 9.1, 652, 56, 4, 0, 78, , , , 0
+Jenkins, Michael ATL WR, 130, 8.7, 705, 46, 3, 0, 75, , , , 0
+Hester, Devin CHI WR, 122, 8.7, 580, 46, 3, 2, 84, 61, 5, 0, 2
+Clayton, Mark BAL WR, 127, 8.5, 567, 37, 3, 0, 78, 81, 6, 1, 0
+Randle El, Antwaan WAS WR, 125, 8.3, 577, 50, 3, 1, 80, 5, 1, 0, 1
+Henderson, Devery NOS WR, 123, 8.2, 764, 30, 3, 0, 55, 33, 4, 0, 0
+Toomer, Amani NYG WR, 120, 8.0, 564, 46, 4, 0, 83, , , , 0
+Bradley, Mark KCC WR, 86, 7.8, 359, 28, 3, 0, 57, , , , 0
+Washington, Nate PIT WR, 116, 7.7, 618, 39, 3, 0, 77, 18, 5, 0, 0
+Northcutt, Dennis JAC WR, 97, 7.5, 510, 39, 2, 0, 60, 9, 1, 0, 0
+Chambers, Chris SDC WR, 97, 7.5, 412, 30, 5, 0, 59, 1, 1, 0, 0
+Stokley, Brandon DEN WR, 104, 7.4, 481, 45, 3, 0, 79, , , , 0
+Wade, Bobby MIN WR, 109, 7.3, 547, 49, 2, 0, 82, , , , 0
+Smith, Steve NYG WR, 108, 7.2, 554, 55, 1, 0, 79, , , , 0
+Crayton, Patrick DAL WR, 107, 7.1, 516, 36, 4, 0, 65, 11, 1, 0, 0
+Floyd, Malcom SDC WR, 92, 7.1, 465, 27, 4, 0, 37, , , , 0
+Johnson, Bryant SFO WR, 105, 7.0, 503, 43, 3, 0, 70, , , , 0
+Engram, Bobby SEA WR, 81, 6.8, 439, 41, 0, 0, 71, , , , 0
+Bess, Davone MIA WR, 100, 6.7, 515, 48, 1, 1, 67, 13, 1, 0, 1
+Hixon, Domenik NYG WR, 98, 6.5, 534, 39, 1, 0, 64, 26, 2, 0, 0
+Baskett, Hank PHI WR, 89, 6.4, 440, 33, 3, 0, 51, , , , 0
+Gaffney, Jabar NEP WR, 94, 6.3, 468, 38, 2, 0, 65, , , , 0
+Patten, David NOS WR, 31, 6.2, 162, 11, 1, 0, 20, , , , 0
+Battle, Arnaz SFO WR, 54, 6.0, 318, 24, 0, 0, 42, 18, 1, 0, 0
+Jones, Brandon TEN WR, 88, 5.9, 436, 39, 1, 0, 60, 35, 2, 0, 0
+Williams, Roy DAL WR, 83, 5.9, 426, 34, 2, 0, 75, 13, 1, 0, 0
+Lloyd, Brandon CHI WR, 59, 5.9, 330, 22, 1, 0, 41, , , , 0
+Williams, Reggie JAC WR, 85, 5.7, 359, 36, 3, 0, 57, 0, 1, 0, 0
+McDonald, Shaun DET WR, 68, 5.7, 332, 35, 1, 1, 66, 0, 0, 0, 1
+Urban, Jerheme ARI WR, 84, 5.6, 405, 30, 3, 0, 45, , , , 0
+Davis, Rashied CHI WR, 81, 5.4, 410, 33, 2, 0, 65, 14, 3, 0, 0
+Avant, Jason PHI WR, 75, 5.4, 377, 32, 2, 0, 56, , , , 0
+Morgan, Josh SFO WR, 58, 5.3, 269, 17, 3, 0, 38, , , , 0
+Stuckey, Chansi NYJ WR, 73, 5.2, 309, 28, 3, 0, 40, 1, 1, 0, 0
+Austin, Miles DAL WR, 56, 5.1, 278, 13, 3, 0, 23, , , , 0
+Jones, James GBP WR, 46, 5.1, 260, 18, 1, 0, 27, , , , 0
+Brown, Reggie PHI WR, 45, 5.0, 239, 17, 1, 0, 31, 6, 1, 0, 0
+Williams, Demetrius BAL WR, 35, 5.0, 180, 13, 1, 0, 23, , , , 0
+Clayton, Michael TBB WR, 68, 4.9, 397, 36, 0, 1, 56, 5, 2, 0, 1
+Nelson, Jordy GBP WR, 72, 4.8, 357, 32, 2, 0, 53, , , , 0
+Walker, Javon OAK WR, 36, 4.5, 196, 15, 1, 0, 32, , , , 0
+Douglas, Harry ATL WR, 66, 4.4, 314, 22, 1, 1, 36, 69, 12, 1, 1
+Higgins, Johnnie Lee OAK WR, 63, 4.2, 314, 16, 3, 1, 35, 34, 3, 0, 1
+Hill, Jason SFO WR, 58, 3.9, 291, 27, 1, 0, 37, -4, 1, 0, 0
+Walker, Mike JAC WR, 31, 3.9, 194, 15, 0, 0, 28, , , , 0
+Rice, Sidney MIN WR, 47, 3.9, 132, 14, 4, 0, 28, , , , 0
+Meachem, Robert NOS WR, 50, 3.8, 253, 9, 2, 0, 15, 20, 1, 1, 0
+Parrish, Roscoe BUF WR, 49, 3.8, 232, 24, 1, 1, 45, 9, 2, 0, 1
+Furrey, Mike FA WR, 33, 3.7, 181, 18, 0, 0, 34, , , , 0
+Booker, Marty CHI WR, 43, 3.6, 211, 14, 2, 0, 47, 3, 1, 0, 0
+Curry, Ronald OAK WR, 46, 3.5, 181, 19, 2, 0, 48, 1, 1, 0, 0
+Moss, Sinorice NYG WR, 31, 3.4, 110, 10, 2, 0, 13, , , , 0
+Anderson, David HOU WR, 49, 3.3, 232, 18, 2, 0, 27, , , , 0
+Stallworth, Donte' CLE WR, 33, 3.3, 158, 16, 1, 0, 42, -4, 1, 0, 0
+Lelie, Ashley OAK WR, 41, 3.2, 197, 11, 2, 0, 45, , , , 0
+Johnson, Steve BUF WR, 29, 3.2, 102, 10, 2, 0, 12, 6, 1, 0, 0
+Lewis, Greg PHI WR, 45, 3.0, 247, 19, 1, 0, 34, , , , 0
+Galloway, Joey TBB WR, 24, 3.0, 138, 13, 0, 0, 28, , , , 0
+Martinez, Glenn FA WR, 6, 3.0, 32, 3, 0, 0, 4, , , , 0
+Jackson, Darrell DEN WR, 31, 2.8, 177, 11, 1, 0, 20, , , , 0
+Martin, Ruvell GBP WR, 34, 2.8, 149, 15, 1, 0, 25, , , , 0
+Darling, Devard KCC WR, 39, 2.6, 233, 15, 1, 0, 30, , , , 0
+Burton, Keenan STL WR, 31, 2.6, 164, 12, 1, 0, 27, 3, 2, 0, 0
+Hackett, D.J. CAR WR, 21, 2.6, 144, 11, 0, 1, 26, 0, 0, 0, 1
+Doucet, Early ARI WR, 15, 2.5, 61, 10, 0, 0, 13, , , , 0
+Finneran, Brian ATL WR, 35, 2.3, 157, 20, 1, 1, 35, 0, 0, 0, 1
+Schilens, Chaz OAK WR, 33, 2.2, 180, 12, 1, 0, 29, -2, 1, 0, 0
+Davis, Craig SDC WR, 9, 2.2, 59, 4, 0, 0, 7, , , , 0
+Davis, Andre' HOU WR, 23, 2.1, 155, 10, 0, 0, 25, , , , 0
+Thomas, Devin WAS WR, 32, 2.1, 120, 15, 0, 0, 27, 53, 3, 1, 0
+Jarrett, Dwayne CAR WR, 18, 2.0, 119, 10, 0, 0, 19, , , , 0
+Hardy, James BUF WR, 28, 2.0, 87, 9, 2, 0, 24, , , , 0
+Hagan, Derek NYG WR, 8, 2.0, 51, 3, 0, 0, 6, , , , 0
+Stanley, Derek STL WR, 19, 1.9, 119, 6, 1, 2, 12, 0, 1, 0, 2
+Williamson, Troy JAC WR, 13, 1.9, 30, 5, 1, 0, 12, 1, 1, 0, 0
+Cribbs, Josh CLE WR, 27, 1.9, 18, 2, 1, 0, 7, 156, 27, 1, 0
+Smith, Brad NYJ WR, 24, 1.7, 71, 12, 0, 1, 19, 116, 11, 0, 1
+Robinson, Laurent ATL WR, 9, 1.5, 52, 5, 0, 0, 6, , , , 0
+Allison, Aundrae MIN WR, 19, 1.4, 109, 10, 0, 0, 22, 1, 1, 0, 0
+Caldwell, Andre CIN WR, 8, 1.3, 44, 6, 0, 0, 12, 4, 1, 0, 0
+Aiken, Sam NEP WR, 15, 1.2, 101, 8, 0, 0, 11, , , , 0
+Hawkins, Lavelle TEN WR, 12, 1.1, 68, 7, 0, 0, 12, , , , 0
+Sweed, Limas PIT WR, 11, 1.1, 64, 6, 0, 1, 10, 0, 0, 0, 1
+Clowney, David NYJ WR, 3, 1.0, 26, 1, 0, 0, 2, , , , 0
+Figurs, Yamon BAL WR, 11, 0.9, 43, 1, 1, 0, 5, , , , 0
+Kelly, Malcolm WAS WR, 4, 0.8, 18, 3, 0, 0, 11, , , , 0
+Jones, Jacoby HOU WR, 10, 0.7, 81, 3, 0, 1, 5, -5, 1, 0, 1
+Naanee, Legedu SDC WR, 11, 0.7, 56, 7, 0, 0, 9, , , , 0
+Jackson, Chad DEN WR, 2, 0.7, 19, 1, 0, 0, 1, , , , 0
+Stanback, Isaiah DAL WR, 4, 0.5, 24, 2, 0, 0, 3, , , , 0
+Stovall, Maurice TBB WR, 2, 0.4, 25, 3, 0, 1, 8, 0, 0, 0, 1
+Jones, Mark CAR WR, 4, 0.3, 32, 2, 0, 0, 3, , , , 0
+Manningham, Mario NYG WR, 2, 0.3, 5, 2, 0, 0, 4, -12, 1, 0, 0
+Clark, Brian TBB WR, 2, 0.2, 12, 1, 0, 0, 2, , , , 0
+Simpson, Jerome CIN WR, 1, 0.2, 2, 1, 0, 0, 3, , , , 0
+Washington, Kelley NEP WR, 1, 0.1, 3, 1, 0, 0, 2, , , , 0
+Garcon, Pierre IND WR, 1, 0.1, 2, 1, 0, 0, 1, , , , 0
+Zeigler, Dominique SFO WR, , 0.0, 97, 5, 0, 0, 8, , , , 0
+Payne, Logan SEA WR, , 0.0, 39, 3, 0, 0, 4, , , , 0
+Bennett, Earl CHI WR, 0, 0.0, , , , , , , , , 
+Copper, Terrance BAL WR, 0, 0.0, , , , , , , , , 
+Hall, Roy IND WR, 0, 0.0, , , , , , , , , 
+Holland, Johnathan OAK WR, 0, 0.0, , , , , , , , , 
+
+[WR=LAST,FIRST NFL POS,PTS,AVG,CYDS,RECS,CTDS,FUMS,TGT,RYDS,ATT,RTDS,FUMS2]
+Welker, Wes NEP WR, 277, 21.3, 1336, 122, 4, 0, 160, 36, 5, 0, 0
+Johnson, Andre HOU WR, 294, 19.6, 1504, 95, 9, 0, 162, 3, 1, 0, 0
+Marshall, Brandon DEN WR, 271, 18.1, 1120, 101, 10, 0, 154, 39, 7, 0, 0
+Wayne, Reggie IND WR, 270, 18.0, 1243, 95, 10, 0, 142, , , , 0
+Moss, Randy NEP WR, 267, 17.8, 1189, 78, 13, 1, 132, 0, 0, 0, 1
+Fitzgerald, Larry ARI WR, 267, 17.8, 1075, 94, 12, 0, 146, , , , 0
+Austin, Miles DAL WR, 257, 17.1, 1230, 74, 11, 0, 116, -2, 2, 0, 0
+Jackson, DeSean PHI WR, 236, 16.9, 1120, 60, 9, 1, 110, 131, 10, 1, 1
+Smith, Steve NYG WR, 250, 16.7, 1163, 97, 7, 0, 145, , , , 0
+White, Roddy ATL WR, 241, 16.1, 1087, 79, 10, 0, 156, 2, 1, 0, 0
+Jackson, Vincent SDC WR, 234, 15.6, 1167, 68, 9, 0, 107, 11, 3, 0, 0
+Rice, Sidney MIN WR, 224, 14.9, 1200, 78, 6, 1, 116, 0, 0, 0, 1
+Ward, Hines PIT WR, 224, 14.9, 1106, 87, 6, 1, 126, 0, 0, 0, 1
+Holmes, Santonio PIT WR, 220, 14.7, 1243, 78, 4, 0, 135, 6, 3, 0, 0
+Colston, Marques NOS WR, 220, 14.7, 1071, 69, 9, 2, 104, 6, 1, 0, 2
+Ochocinco, Chad CIN WR, 221, 14.7, 1047, 72, 9, 2, 124, 32, 3, 0, 2
+Boldin, Anquan ARI WR, 202, 14.4, 991, 82, 5, 2, 122, 7, 2, 0, 2
+Mason, Derrick BAL WR, 208, 13.9, 1005, 72, 7, 0, 131, 2, 1, 0, 0
+Smith, Steve CAR WR, 203, 13.5, 982, 65, 7, 0, 128, 22, 5, 0, 0
+Johnson, Calvin DET WR, 172, 13.2, 898, 61, 4, 2, 126, 69, 6, 0, 2
+Jennings, Greg GBP WR, 197, 13.1, 1091, 66, 4, 0, 113, , , , 0
+Driver, Donald GBP WR, 193, 12.9, 996, 64, 6, 1, 106, 13, 1, 0, 1
+Sims-Walker, Mike JAC WR, 179, 12.8, 841, 61, 7, 1, 104, 0, 0, 0, 1
+Bowe, Dwayne KCC WR, 125, 12.5, 583, 46, 4, 0, 86, , , , 0
+Nicks, Hakeem NYG WR, 156, 12.0, 795, 46, 6, 0, 72, 8, 2, 0, 0
+Harvin, Percy MIN WR, 167, 11.9, 731, 53, 6, 0, 81, 113, 14, 0, 0
+Burleson, Nate SEA WR, 154, 11.8, 812, 63, 3, 2, 103, 4, 2, 0, 2
+Manningham, Mario NYG WR, 161, 11.5, 822, 57, 5, 1, 99, 0, 0, 0, 1
+Meachem, Robert NOS WR, 171, 11.4, 710, 43, 9, 0, 55, 82, 6, 0, 0
+Houshmandzadeh, T.J. SEA WR, 170, 11.3, 845, 76, 3, 1, 129, 0, 0, 0, 1
+Robinson, Laurent STL WR, 34, 11.3, 167, 13, 1, 0, 23, , , , 0
+Hester, Devin CHI WR, 134, 11.2, 682, 54, 3, 1, 87, -1, 6, 0, 1
+Cotchery, Jerricho NYJ WR, 142, 10.9, 782, 52, 3, 0, 90, 1, 1, 0, 0
+Crabtree, Michael SFO WR, 107, 10.7, 567, 45, 2, 1, 78, 0, 0, 0, 1
+Collie, Austin IND WR, 159, 10.6, 661, 59, 7, 0, 86, 1, 2, 0, 0
+Moss, Santana WAS WR, 158, 10.5, 847, 64, 3, 1, 111, 8, 2, 0, 1
+Owens, Terrell BUF WR, 157, 10.5, 764, 51, 4, 0, 101, 54, 6, 1, 0
+Garcon, Pierre IND WR, 143, 10.2, 765, 47, 4, 0, 92, 10, 2, 0, 0
+Maclin, Jeremy PHI WR, 143, 10.2, 715, 52, 4, 0, 83, -7, 2, 0, 0
+Breaston, Steve ARI WR, 137, 9.8, 696, 52, 3, 1, 78, 44, 2, 0, 1
+Williams, Roy DAL WR, 131, 9.4, 596, 38, 7, 1, 85, 0, 0, 0, 1
+Henderson, Devery NOS WR, 138, 9.2, 786, 50, 2, 0, 80, 13, 4, 0, 0
+Bryant, Antonio TBB WR, 109, 9.1, 585, 37, 3, 0, 77, , , , 0
+Walter, Kevin HOU WR, 117, 9.0, 581, 51, 2, 0, 67, 26, 4, 0, 0
+Wallace, Mike PIT WR, 134, 8.9, 692, 37, 5, 1, 69, 48, 5, 0, 1
+Bess, Davone MIA WR, 133, 8.9, 673, 71, 1, 3, 107, 11, 2, 0, 3
+Chambers, Chris KCC WR, 132, 8.8, 650, 40, 5, 0, 84, , , , 0
+Bennett, Earl CHI WR, 127, 8.5, 690, 51, 2, 0, 82, , , , 0
+Edwards, Braylon NYJ WR, 128, 8.5, 665, 43, 4, 1, 87, 0, 0, 0, 1
+Evans, Lee BUF WR, 127, 8.5, 563, 40, 6, 0, 89, , , , 0
+Berrian, Bernard MIN WR, 126, 8.4, 568, 53, 4, 0, 89, , , , 0
+Avery, Donnie STL WR, 124, 8.3, 566, 45, 5, 2, 93, 30, 4, 0, 2
+Knox, Johnny CHI WR, 123, 8.2, 527, 45, 5, 1, 80, 0, 0, 0, 1
+Washington, Nate TEN WR, 123, 8.2, 486, 41, 6, 0, 87, 15, 2, 0, 0
+Schilens, Chaz OAK WR, 57, 8.1, 266, 21, 2, 0, 43, , , , 0
+Britt, Kenny TEN WR, 119, 7.9, 687, 41, 3, 1, 74, 0, 0, 0, 1
+Morgan, Josh SFO WR, 117, 7.8, 500, 50, 3, 0, 79, 61, 5, 0, 0
+Holt, Torry JAC WR, 115, 7.7, 722, 51, 0, 1, 103, 0, 0, 0, 1
+Coles, Laveranues CIN WR, 116, 7.7, 495, 40, 5, 0, 73, 10, 2, 0, 0
+Jenkins, Michael ATL WR, 106, 7.6, 590, 46, 1, 0, 83, , , , 0
+Avant, Jason PHI WR, 112, 7.5, 579, 40, 3, 0, 56, , , , 0
+Muhammad, Muhsin CAR WR, 95, 7.3, 496, 46, 1, 0, 79, , , , 0
+Caldwell, Andre CIN WR, 108, 7.2, 432, 51, 3, 2, 76, 22, 3, 0, 2
+Wade, Bobby KCC WR, 79, 7.2, 351, 36, 2, 0, 70, 11, 2, 0, 0
+Gibson, Brandon STL WR, 65, 7.2, 330, 31, 1, 1, 62, 0, 0, 0, 1
+Crayton, Patrick DAL WR, 106, 7.1, 523, 33, 4, 1, 61, 28, 4, 0, 1
+Massaquoi, Mohamed CLE WR, 103, 6.9, 610, 33, 3, 1, 92, -3, 1, 0, 1
+Clayton, Mark BAL WR, 88, 6.8, 473, 33, 2, 1, 71, 28, 4, 0, 1
+Thomas, Mike JAC WR, 89, 6.8, 388, 41, 1, 1, 52, 85, 11, 0, 1
+Floyd, Malcom SDC WR, 99, 6.6, 636, 36, 1, 0, 62, , , , 0
+Jones, Jacoby HOU WR, 86, 6.6, 372, 22, 5, 0, 34, 22, 3, 0, 0
+Gage, Justin TEN WR, 72, 6.5, 345, 24, 3, 0, 60, , , , 0
+Camarillo, Greg MIA WR, 96, 6.4, 530, 47, 0, 0, 67, , , , 0
+Gaffney, Jabar DEN WR, 96, 6.4, 519, 40, 2, 0, 68, , , , 0
+Jones, James GBP WR, 96, 6.4, 423, 29, 5, 0, 57, , , , 0
+Murphy, Louis OAK WR, 93, 6.2, 462, 28, 4, 0, 87, 14, 4, 0, 0
+Branch, Deion SEA WR, 81, 6.2, 360, 41, 2, 0, 71, -8, 1, 0, 0
+Aromashodu, Devin CHI WR, 55, 6.1, 252, 19, 2, 0, 35, , , , 0
+Randle El, Antwaan WAS WR, 90, 6.0, 510, 47, 0, 2, 63, 0, 0, 0, 2
+Hartline, Brian MIA WR, 90, 6.0, 472, 29, 3, 0, 52, 9, 2, 0, 0
+Lloyd, Brandon DEN WR, 6, 6.0, 22, 4, 0, 0, 5, , , , 0
+Washington, Kelley BAL WR, 80, 5.7, 424, 32, 2, 0, 46, 1, 1, 0, 0
+Ginn Jr., Ted MIA WR, 83, 5.5, 434, 35, 1, 0, 72, 48, 7, 0, 0
+Edelman, Julian NEP WR, 55, 5.5, 256, 27, 1, 0, 39, 5, 2, 0, 0
+Amendola, Danny STL WR, 70, 5.4, 308, 40, 1, 1, 57, -2, 3, 0, 1
+Moore, Lance NOS WR, 38, 5.4, 153, 14, 2, 0, 19, , , , 0
+Bradley, Mark TBB WR, 68, 5.2, 320, 24, 2, 0, 57, 20, 2, 0, 0
+Thomas, Devin WAS WR, 71, 5.1, 325, 25, 3, 0, 47, -2, 3, 0, 0
+Burton, Keenan STL WR, 46, 5.1, 253, 25, 0, 0, 44, , , , 0
+Johnson, Bryant DET WR, 75, 5.0, 384, 32, 2, 0, 82, , , , 0
+Stroughter, Sammie TBB WR, 65, 5.0, 334, 31, 1, 0, 58, , , , 0
+Stuckey, Chansi CLE WR, 70, 5.0, 318, 30, 2, 0, 63, 6, 2, 0, 0
+Bruce, Isaac SFO WR, 44, 4.9, 264, 21, 0, 0, 49, -8, 1, 0, 0
+Royal, Eddie DEN WR, 67, 4.8, 345, 37, 0, 0, 79, 1, 1, 0, 0
+Nelson, Jordy GBP WR, 56, 4.7, 269, 21, 2, 1, 30, 0, 0, 0, 1
+Anderson, David HOU WR, 69, 4.6, 370, 38, 0, 0, 51, , , , 0
+Northcutt, Dennis DET WR, 69, 4.6, 341, 33, 1, 1, 59, 0, 0, 0, 1
+Aiken, Sam NEP WR, 59, 4.5, 317, 18, 2, 0, 36, , , , 0
+Doucet, Early ARI WR, 35, 4.4, 186, 13, 1, 0, 19, , , , 0
+Long, Lance KCC WR, 35, 4.4, 178, 20, 0, 0, 38, -1, 1, 0, 0
+Galloway, Joey PIT WR, 13, 4.3, 67, 7, 0, 0, 19, , , , 0
+Reed, Josh BUF WR, 59, 4.2, 291, 27, 1, 1, 45, 0, 0, 0, 1
+Stovall, Maurice TBB WR, 58, 4.1, 339, 23, 1, 0, 44, , , , 0
+Cribbs, Josh CLE WR, 62, 4.1, 135, 20, 1, 2, 37, 334, 49, 0, 2
+Curtis, Kevin PHI WR, 12, 4.0, 77, 6, 0, 0, 15, , , , 0
+Naanee, Legedu SDC WR, 58, 3.9, 242, 24, 2, 0, 29, 7, 3, 0, 0
+Stokley, Brandon DEN WR, 57, 3.8, 284, 14, 3, 0, 25, , , , 0
+Urban, Jerheme ARI WR, 31, 3.4, 173, 16, 0, 0, 27, , , , 0
+Clayton, Michael TBB WR, 40, 3.3, 214, 15, 1, 0, 47, , , , 0
+Clowney, David NYJ WR, 37, 2.8, 191, 14, 1, 0, 22, 1, 3, 0, 0
+Hixon, Domenik NYG WR, 36, 2.8, 187, 15, 1, 2, 28, 0, 0, 0, 2
+Booker, Marty ATL WR, 36, 2.6, 181, 16, 1, 0, 30, 7, 1, 0, 0
+Kelly, Malcolm WAS WR, 38, 2.5, 238, 20, 0, 0, 35, , , , 0
+Hill, Jason SFO WR, 25, 2.5, 73, 7, 2, 0, 15, , , , 0
+Higgins, Johnnie Lee OAK WR, 33, 2.4, 192, 15, 0, 1, 41, 21, 2, 0, 1
+Furrey, Mike CLE WR, 36, 2.4, 170, 23, 0, 0, 39, , , , 0
+Heyward-Bey, Darrius OAK WR, 26, 2.4, 124, 9, 1, 0, 40, 19, 2, 0, 0
+Dillard, Jarett JAC WR, 14, 2.3, 106, 6, 0, 0, 8, , , , 0
+Hughes, Nate JAC WR, 16, 2.3, 70, 5, 1, 0, 12, , , , 0
+Williams, Demetrius BAL WR, 26, 2.2, 142, 8, 1, 0, 17, , , , 0
+Engram, Bobby FA* WR, 10, 2.0, 61, 5, 0, 0, 10, , , , 0
+Williamson, Troy JAC WR, 4, 2.0, 34, 3, 0, 1, 4, 0, 0, 0, 1
+Butler, Deon SEA WR, 28, 1.9, 175, 15, 0, 0, 39, , , , 0
+Hawkins, Lavelle TEN WR, 17, 1.9, 110, 7, 0, 0, 14, , , , 0
+Martin, Ruvell STL WR, 13, 1.9, 90, 5, 0, 0, 10, , , , 0
+Jarrett, Dwayne CAR WR, 22, 1.8, 128, 12, 0, 0, 26, , , , 0
+Finneran, Brian ATL WR, 18, 1.8, 111, 11, 0, 0, 16, , , , 0
+Lewis, Greg MIN WR, 21, 1.8, 96, 8, 1, 0, 10, , , , 0
+Smith, Brad NYJ WR, 22, 1.8, 63, 7, 0, 0, 12, 115, 14, 0, 0
+Brown, Reggie PHI WR, 22, 1.7, 155, 9, 0, 0, 24, -3, 1, 0, 0
+Weems, Eric ATL WR, 25, 1.7, 50, 6, 2, 1, 6, 53, 8, 0, 1
+Hurd, Sam DAL WR, 23, 1.5, 121, 7, 1, 0, 12, , , , 0
+Robiskie, Brian CLE WR, 16, 1.5, 106, 7, 0, 0, 21, , , , 0
+Ogletree, Kevin DAL WR, 13, 1.3, 81, 6, 0, 0, 7, 6, 1, 0, 0
+Watkins, Todd OAK WR, 14, 1.2, 90, 8, 0, 0, 19, , , , 0
+Hagan, Derek NYG WR, 17, 1.1, 70, 6, 1, 0, 6, , , , 0
+Moore, Kenneth CAR WR, 10, 0.9, 59, 6, 0, 1, 11, 0, 0, 0, 1
+Williams, Derrick DET WR, 9, 0.9, 52, 6, 0, 0, 13, 4, 1, 0, 0
+Clark, Brian TBB WR, 11, 0.8, 65, 6, 0, 0, 18, , , , 0
+Stanback, Isaiah NEP WR, 4, 0.8, 22, 3, 0, 0, 7, , , , 0
+Davis, Andre' HOU WR, 9, 0.7, 49, 5, 0, 0, 9, , , , 0
+Mitchell, Marko WAS WR, 5, 0.6, 28, 3, 0, 0, 4, , , , 0
+Baskett, Hank IND WR, 5, 0.6, 27, 4, 0, 0, 7, , , , 0
+Cosby, Quan CIN WR, 8, 0.5, 55, 4, 0, 0, 5, -2, 1, 0, 0
+Battle, Arnaz SFO WR, 7, 0.5, 40, 5, 0, 2, 5, 0, 0, 0, 2
+Obomanu, Ben SEA WR, 6, 0.5, 34, 3, 0, 1, 4, 0, 0, 0, 1
+Davis, Rashied CHI WR, 6, 0.4, 35, 5, 0, 1, 8, 0, 0, 0, 1
+Wright, Wallace NYJ WR, 4, 0.3, 21, 2, 0, 0, 2, , , , 0
+Parrish, Roscoe BUF WR, 2, 0.2, 35, 2, 0, 3, 3, 4, 2, 0, 3
+Jones, Brandon SFO WR, 2, 0.2, 18, 1, 0, 0, 5, , , , 0
+
+[WR=LAST,FIRST NFL POS,PTS,AVG,CYDS,RECS,CTDS,FUMS,TGT,RYDS,ATT,RTDS,FUMS2]
+White, Roddy ATL WR, 291, 19.4, 1327, 109, 9, 1, 171, 3, 1, 0, 1
+Johnson, Andre HOU WR, 250, 19.2, 1216, 86, 8, 0, 138, 10, 2, 0, 0
+Nicks, Hakeem NYG WR, 244, 18.8, 1052, 79, 11, 0, 128, , , , 0
+Collie, Austin IND WR, 165, 18.3, 649, 58, 8, 1, 71, 0, 0, 0, 1
+Lloyd, Brandon DEN WR, 262, 17.5, 1375, 72, 10, 0, 139, , , , 0
+Bowe, Dwayne KCC WR, 262, 17.5, 1094, 67, 15, 0, 123, 4, 1, 0, 0
+Johnson, Calvin DET WR, 259, 17.3, 1120, 77, 12, 0, 137, 32, 4, 0, 0
+Jennings, Greg GBP WR, 255, 17.0, 1168, 72, 12, 0, 114, -1, 1, 0, 0
+Wayne, Reggie IND WR, 252, 16.8, 1287, 102, 5, 1, 166, 0, 0, 0, 1
+Owens, Terrell CIN WR, 219, 15.6, 983, 72, 9, 0, 139, , , , 0
+Johnson, Steve BUF WR, 229, 15.3, 1001, 77, 10, 0, 117, , , , 0
+Wallace, Mike PIT WR, 225, 15.0, 1152, 57, 9, 0, 94, 39, 5, 0, 0
+Colston, Marques NOS WR, 222, 14.8, 1022, 84, 7, 0, 131, 1, 1, 0, 0
+Maclin, Jeremy PHI WR, 220, 14.7, 964, 70, 10, 1, 114, 36, 3, 0, 1
+Moss, Santana WAS WR, 215, 14.3, 1041, 84, 6, 1, 133, -6, 5, 0, 1
+Austin, Miles DAL WR, 214, 14.3, 979, 67, 7, 1, 115, 102, 6, 1, 1
+Harvin, Percy MIN WR, 186, 14.3, 799, 63, 5, 1, 95, 111, 16, 1, 1
+Marshall, Brandon MIA WR, 184, 14.2, 917, 81, 3, 1, 132, 3, 2, 0, 1
+Jackson, DeSean PHI WR, 198, 14.1, 1056, 47, 6, 1, 95, 104, 16, 1, 1
+Fitzgerald, Larry ARI WR, 207, 13.8, 1012, 79, 5, 0, 156, , , , 0
+Welker, Wes NEP WR, 207, 13.8, 848, 86, 7, 0, 123, , , , 0
+Williams, Mike TBB WR, 202, 13.5, 924, 61, 10, 2, 122, 0, 0, 0, 2
+Holmes, Santonio NYJ WR, 148, 13.5, 729, 51, 5, 2, 94, 17, 2, 0, 2
+Britt, Kenny TEN WR, 149, 13.5, 690, 37, 8, 1, 64, 0, 0, 0, 1
+Floyd, Malcom SDC WR, 133, 13.3, 660, 35, 6, 0, 68, , , , 0
+Smith, Steve NYG WR, 116, 12.9, 529, 48, 3, 0, 75, , , , 0
+Clayton, Mark STL WR, 63, 12.6, 306, 23, 2, 0, 42, 6, 1, 0, 0
+Jackson, Vincent SDC WR, 49, 12.2, 195, 11, 3, 0, 19, 14, 1, 0, 0
+Manningham, Mario NYG WR, 182, 12.1, 843, 56, 8, 1, 85, 2, 1, 0, 1
+Garcon, Pierre IND WR, 156, 12.0, 706, 60, 5, 0, 106, 6, 2, 0, 0
+Ochocinco, Chad CIN WR, 167, 11.9, 831, 67, 4, 0, 125, , , , 0
+Boldin, Anquan BAL WR, 179, 11.9, 828, 62, 7, 1, 106, 2, 2, 0, 1
+Thomas, Mike JAC WR, 174, 11.6, 808, 65, 4, 3, 96, 94, 10, 0, 3
+Branch, Deion NEP WR, 173, 11.5, 818, 61, 6, 1, 92, 0, 0, 0, 1
+Bess, Davone MIA WR, 172, 11.5, 782, 77, 4, 2, 117, 0, 1, 0, 2
+Mason, Derrick BAL WR, 172, 11.5, 768, 58, 7, 0, 97, , , , 0
+Moore, Lance NOS WR, 169, 11.3, 710, 60, 8, 1, 86, 0, 0, 0, 1
+Knox, Johnny CHI WR, 168, 11.2, 960, 51, 5, 1, 91, 2, 1, 0, 1
+Edwards, Braylon NYJ WR, 166, 11.1, 852, 52, 6, 1, 99, 4, 1, 0, 1
+Amendola, Danny STL WR, 167, 11.1, 680, 83, 3, 1, 119, 81, 7, 0, 1
+Bryant, Dez DAL WR, 133, 11.1, 561, 45, 6, 1, 72, 0, 1, 0, 1
+Gaffney, Jabar DEN WR, 156, 10.4, 863, 64, 2, 0, 109, , , , 0
+Williams, Mike SEA WR, 135, 10.4, 735, 62, 1, 0, 102, 0, 1, 0, 0
+Sims-Walker, Mike JAC WR, 134, 10.3, 562, 43, 7, 1, 79, 0, 0, 0, 1
+Parrish, Roscoe BUF WR, 82, 10.2, 392, 33, 2, 0, 53, 23, 3, 0, 0
+Crabtree, Michael SFO WR, 150, 10.0, 694, 51, 6, 0, 95, , , , 0
+Burleson, Nate DET WR, 129, 9.9, 542, 49, 5, 2, 78, 61, 6, 0, 2
+Breaston, Steve ARI WR, 118, 9.8, 692, 43, 1, 0, 81, 35, 3, 0, 0
+Ward, Hines PIT WR, 140, 9.3, 710, 54, 4, 1, 87, -2, 1, 0, 1
+Jones, James GBP WR, 139, 9.3, 671, 49, 5, 1, 85, 0, 0, 0, 1
+Royal, Eddie DEN WR, 138, 9.2, 627, 59, 3, 2, 104, 61, 6, 0, 2
+Gibson, Brandon STL WR, 119, 9.2, 590, 50, 2, 0, 85, 28, 3, 0, 0
+Rice, Sidney MIN WR, 55, 9.2, 280, 17, 2, 0, 42, , , , 0
+Armstrong, Anthony WAS WR, 126, 9.0, 787, 42, 2, 1, 77, 0, 0, 0, 1
+Washington, Nate TEN WR, 134, 8.9, 649, 41, 6, 0, 90, -8, 1, 0, 0
+Hartline, Brian MIA WR, 107, 8.9, 615, 43, 1, 1, 73, 27, 2, 0, 1
+Meachem, Robert NOS WR, 132, 8.8, 633, 43, 5, 0, 64, 17, 3, 0, 0
+Jenkins, Michael ATL WR, 88, 8.8, 453, 36, 2, 0, 65, , , , 0
+Simpson, Jerome CIN WR, 35, 8.8, 154, 8, 2, 0, 11, , , , 0
+Shipley, Jordan CIN WR, 120, 8.6, 586, 50, 3, 0, 70, , , , 0
+Evans, Lee BUF WR, 112, 8.6, 578, 37, 4, 1, 83, 0, 0, 0, 1
+Walter, Kevin HOU WR, 129, 8.6, 567, 48, 5, 0, 75, , , , 0
+Driver, Donald GBP WR, 118, 8.4, 524, 46, 4, 0, 81, , , , 0
+Crayton, Patrick SDC WR, 82, 8.2, 514, 28, 1, 0, 41, , , , 0
+Bennett, Earl CHI WR, 114, 8.1, 561, 46, 3, 0, 70, 9, 2, 0, 0
+Murphy, Louis OAK WR, 104, 8.0, 580, 39, 2, 1, 74, 43, 1, 0, 1
+Williams, Roy DAL WR, 112, 8.0, 524, 36, 5, 2, 61, 0, 0, 0, 2
+Jones, Jacoby HOU WR, 112, 8.0, 492, 46, 3, 0, 71, 7, 2, 0, 0
+Morgan, Josh SFO WR, 112, 7.5, 639, 41, 2, 1, 76, 17, 2, 0, 1
+Smith, Steve CAR WR, 104, 7.4, 554, 46, 2, 2, 99, 9, 1, 0, 2
+White, Blair IND WR, 89, 7.4, 304, 32, 5, 0, 50, , , , 0
+Butler, Deon SEA WR, 95, 7.3, 385, 36, 4, 0, 70, 6, 2, 0, 0
+Avant, Jason PHI WR, 108, 7.2, 552, 50, 1, 0, 70, , , , 0
+Alexander, Danario STL WR, 50, 7.1, 292, 17, 1, 0, 32, , , , 0
+Davis, Buster SDC WR, 50, 7.1, 259, 21, 1, 0, 39, , , , 0
+Hester, Devin CHI WR, 104, 6.9, 459, 39, 4, 0, 68, 30, 7, 0, 0
+Nelson, Jordy GBP WR, 102, 6.8, 543, 43, 2, 3, 62, 0, 0, 0, 3
+Obomanu, Ben SEA WR, 94, 6.7, 455, 25, 4, 0, 41, 17, 2, 0, 0
+Gettis, David CAR WR, 93, 6.6, 475, 33, 3, 0, 59, -17, 2, 0, 0
+Cotchery, Jerricho NYJ WR, 83, 6.4, 401, 38, 2, 0, 78, -2, 3, 0, 0
+Ford, Jacoby OAK WR, 94, 6.3, 435, 24, 2, 1, 52, 133, 8, 1, 1
+Massaquoi, Mohamed CLE WR, 88, 6.3, 433, 33, 2, 1, 67, 0, 0, 0, 1
+Hagan, Derek NYG WR, 38, 6.3, 153, 18, 1, 0, 34, , , , 0
+Thomas, Demaryius DEN WR, 56, 6.2, 283, 22, 2, 2, 37, 1, 2, 0, 2
+Moss, Randy TEN WR, 90, 6.0, 375, 27, 5, 0, 56, , , , 0
+LaFell, Brandon CAR WR, 76, 5.8, 405, 34, 1, 0, 69, , , , 0
+Sanders, Emmanuel PIT WR, 70, 5.8, 360, 27, 2, 1, 48, 0, 0, 0, 1
+Naanee, Legedu SDC WR, 51, 5.7, 292, 19, 1, 1, 37, -2, 3, 0, 1
+Doucet, Early ARI WR, 57, 5.7, 291, 26, 1, 0, 59, 5, 2, 0, 0
+Martin, Ruvell SEA WR, 17, 5.7, 73, 4, 1, 0, 6, , , , 0
+Henderson, Devery NOS WR, 82, 5.5, 464, 34, 1, 0, 55, 8, 3, 0, 0
+Stokley, Brandon SEA WR, 61, 5.5, 354, 31, 0, 0, 39, , , , 0
+Robinson, Laurent STL WR, 71, 5.5, 330, 32, 2, 0, 68, -5, 1, 0, 0
+Gonzalez, Anthony IND WR, 11, 5.5, 67, 5, 0, 0, 9, , , , 0
+Nelson, David BUF WR, 80, 5.3, 353, 31, 3, 0, 47, , , , 0
+Houshmandzadeh, T.J. BAL WR, 78, 5.2, 381, 28, 3, 0, 54, , , , 0
+Ajirotutu, Seyi SDC WR, 46, 5.1, 245, 12, 2, 0, 21, , , , 0
+Heyward-Bey, Darrius OAK WR, 70, 5.0, 366, 26, 1, 0, 62, 46, 3, 0, 0
+Benn, Arrelious TBB WR, 72, 4.8, 395, 25, 2, 0, 38, 35, 6, 0, 0
+Stuckey, Chansi CLE WR, 72, 4.8, 342, 39, 0, 2, 59, 9, 3, 1, 2
+Robiskie, Brian CLE WR, 63, 4.8, 275, 27, 2, 0, 43, , , , 0
+Tate, Brandon NEP WR, 68, 4.5, 350, 22, 2, 1, 43, 62, 5, 0, 1
+Gage, Justin TEN WR, 49, 4.5, 266, 20, 1, 0, 43, , , , 0
+McCluster, Dexter KCC WR, 45, 4.5, 194, 20, 1, 1, 32, 71, 18, 0, 1
+Washington, Kelley SDC WR, 31, 4.4, 153, 11, 1, 0, 12, , , , 0
+Hill, Jason JAC WR, 30, 4.3, 180, 8, 1, 0, 17, , , , 0
+Roberts, Andre ARI WR, 58, 4.1, 284, 20, 2, 1, 38, 0, 0, 0, 1
+Tate, Golden SEA WR, 40, 4.0, 224, 20, 0, 0, 38, 1, 1, 0, 0
+Cribbs, Josh CLE WR, 54, 3.9, 255, 20, 1, 0, 35, 67, 20, 0, 0
+Stroughter, Sammie TBB WR, 45, 3.8, 239, 24, 0, 1, 41, 2, 1, 0, 1
+Berrian, Bernard MIN WR, 46, 3.5, 236, 26, 0, 0, 50, -8, 1, 0, 0
+Chambers, Chris KCC WR, 41, 3.4, 191, 20, 1, 0, 40, , , , 0
+Douglas, Harry ATL WR, 49, 3.3, 275, 21, 1, 0, 51, -5, 2, 0, 0
+Spurlock, Micheal TBB WR, 50, 3.3, 250, 17, 2, 1, 33, 0, 0, 0, 1
+Roosevelt, Naaman BUF WR, 16, 3.2, 109, 6, 0, 0, 11, , , , 0
+Randle El, Antwaan PIT WR, 46, 3.1, 232, 20, 0, 0, 32, 2, 1, 0, 0
+Finneran, Brian ATL WR, 46, 3.1, 140, 17, 3, 0, 29, , , , 0
+Caldwell, Andre CIN WR, 39, 2.8, 251, 18, 0, 1, 26, -2, 1, 0, 1
+Camarillo, Greg MIN WR, 42, 2.8, 227, 19, 1, 0, 33, , , , 0
+Jones, Donald BUF WR, 42, 2.8, 213, 18, 1, 0, 41, 1, 3, 0, 0
+Lewis, Greg MIN WR, 34, 2.8, 197, 17, 0, 0, 34, , , , 0
+Galloway, Joey FA WR, 26, 2.6, 173, 12, 0, 0, 37, , , , 0
+Brown, Antonio PIT WR, 21, 2.6, 115, 12, 0, 0, 15, , , , 0
+Moore, Marlon MIA WR, 19, 2.4, 82, 4, 1, 0, 12, 16, 1, 0, 0
+Smith, Brad NYJ WR, 36, 2.4, 44, 4, 0, 1, 7, 239, 33, 1, 1
+Tucker, Verran KCC WR, 21, 2.3, 114, 6, 1, 0, 19, , , , 0
+Johnson, Bryant DET WR, 28, 2.2, 161, 15, 0, 0, 44, , , , 0
+Williams, Damian TEN WR, 30, 2.0, 195, 13, 0, 0, 24, , , , 0
+Stallworth, Donte' BAL WR, 12, 2.0, 82, 2, 0, 0, 5, 30, 4, 0, 0
+Hawkins, Lavelle TEN WR, 10, 2.0, 61, 5, 0, 0, 6, , , , 0
+Copper, Terrance KCC WR, 29, 1.9, 157, 18, 0, 0, 28, , , , 0
+Komar, Max ARI WR, 13, 1.9, 91, 9, 0, 1, 18, 0, 0, 0, 1
+Aromashodu, Devin CHI WR, 23, 1.8, 149, 10, 0, 0, 23, , , , 0
+Cooper, Riley PHI WR, 22, 1.8, 111, 6, 1, 0, 14, , , , 0
+Underwood, Tiquan JAC WR, 18, 1.8, 111, 8, 0, 0, 22, , , , 0
+Barden, Ramses NYG WR, 10, 1.7, 64, 5, 0, 0, 7, , , , 0
+Ginn Jr., Ted SFO WR, 19, 1.6, 122, 10, 0, 0, 31, 11, 2, 0, 0
+Anderson, David HOU WR, 19, 1.6, 117, 11, 0, 0, 18, , , , 0
+Hurd, Sam DAL WR, 23, 1.5, 120, 14, 0, 0, 23, , , , 0
+Zeigler, Dominique SFO WR, 17, 1.5, 98, 9, 0, 0, 15, , , , 0
+Higgins, Johnnie Lee OAK WR, 18, 1.4, 103, 10, 0, 0, 30, , , , 0
+Williams, Stephen ARI WR, 13, 1.3, 75, 7, 0, 0, 20, , , , 0
+Williams, Roydell WAS WR, 16, 1.1, 109, 8, 0, 0, 17, , , , 0
+Osgood, Kassim JAC WR, 16, 1.1, 60, 6, 1, 0, 15, , , , 0
+Gilyard, Mardy STL WR, 11, 1.0, 63, 6, 0, 1, 16, 0, 0, 0, 1
+Swain, Brett GBP WR, 12, 0.8, 72, 6, 0, 0, 9, , , , 0
+Clowney, David CAR WR, 10, 0.8, 68, 5, 0, 0, 12, , , , 0
+Weems, Eric ATL WR, 10, 0.7, 61, 6, 0, 0, 6, , , , 0
+Decker, Eric DEN WR, 8, 0.6, 84, 4, 0, 1, 5, 0, 0, 0, 1
+Wallace, Roberto MIA WR, 6, 0.5, 46, 4, 0, 0, 8, , , , 0
+
+[TE=LAST,FIRST NFL POS,PTS,AVG,CYDS,RECS,CTDS,FUMS,TGT,RYDS,ATT,RTDS,FUMS2]
+Gonzalez, Tony KCC TE, 238, 15.9, 1005, 91, 9, 0, 145, , , , 0
+Clark, Dallas IND TE, 178, 12.7, 789, 71, 6, 1, 99, 0, 0, 0, 1
+Witten, Jason DAL TE, 182, 12.1, 902, 74, 4, 0, 110, , , , 0
+Gates, Antonio SDC TE, 162, 10.8, 655, 57, 8, 1, 89, 0, 0, 0, 1
+Daniels, Owen HOU TE, 154, 10.3, 825, 67, 2, 1, 96, 0, 0, 0, 1
+Cooley, Chris WAS TE, 151, 10.1, 792, 77, 1, 2, 104, 0, 0, 0, 2
+Winslow, Kellen CLE TE, 98, 9.8, 428, 43, 3, 1, 82, 0, 0, 0, 1
+Carlson, John SEA TE, 138, 9.2, 613, 53, 5, 0, 75, , , , 0
+Shiancoe, Visanthe MIN TE, 134, 8.9, 582, 40, 7, 0, 56, , , , 0
+Miller, Zach OAK TE, 128, 8.5, 744, 54, 1, 0, 83, , , , 0
+Scheffler, Tony DEN TE, 99, 8.2, 570, 35, 2, 1, 54, -1, 1, 0, 1
+Olsen, Greg CHI TE, 118, 7.9, 544, 50, 4, 2, 74, 0, 0, 0, 2
+Scaife, Bo TEN TE, 116, 7.7, 554, 57, 2, 0, 79, , , , 0
+Miller, Heath PIT TE, 100, 7.7, 459, 43, 3, 1, 58, 0, 0, 0, 1
+Shockey, Jeremy NOS TE, 89, 7.4, 483, 50, 0, 2, 72, 0, 0, 0, 2
+Keller, Dustin NYJ TE, 108, 7.2, 511, 46, 3, 0, 70, , , , 0
+Miller, Billy NOS TE, 96, 6.9, 523, 42, 1, 0, 55, , , , 0
+Fasano, Anthony MIA TE, 102, 6.8, 415, 31, 6, 0, 50, , , , 0
+Boss, Kevin NYG TE, 102, 6.8, 384, 33, 6, 0, 55, , , , 0
+Lewis, Marcedes JAC TE, 94, 6.3, 489, 40, 2, 0, 71, , , , 0
+Stevens, Jerramy TBB TE, 79, 6.1, 369, 34, 2, 0, 54, , , , 0
+Lee, Donald GBP TE, 92, 6.1, 303, 39, 5, 0, 48, , , , 0
+Smith, L.J. PHI TE, 79, 6.1, 298, 37, 3, 0, 64, , , , 0
+McMichael, Randy STL TE, 23, 5.8, 139, 11, 0, 0, 21, , , , 0
+Martin, David MIA TE, 86, 5.7, 432, 30, 3, 1, 44, 0, 0, 0, 1
+Graham, Daniel DEN TE, 86, 5.7, 370, 30, 4, 0, 48, , , , 0
+Heap, Todd BAL TE, 79, 5.3, 378, 32, 3, 1, 60, 0, 0, 0, 1
+Clark, Desmond CHI TE, 75, 5.0, 360, 40, 1, 0, 72, , , , 0
+Smith, Alex TBB TE, 62, 4.8, 250, 21, 3, 0, 37, , , , 0
+Davis, Vernon SFO TE, 66, 4.4, 340, 28, 2, 1, 46, 11, 1, 0, 1
+Bennett, Martellus DAL TE, 64, 4.3, 269, 18, 4, 0, 24, , , , 0
+Royal, Robert BUF TE, 59, 4.2, 321, 31, 1, 2, 52, 0, 0, 0, 2
+Watson, Ben NEP TE, 49, 3.8, 209, 22, 2, 1, 47, 0, 0, 0, 1
+Crumpler, Alge TEN TE, 50, 3.3, 257, 24, 1, 0, 41, , , , 0
+Santi, Tom IND TE, 20, 3.3, 64, 10, 1, 0, 13, , , , 0
+Celek, Brent PHI TE, 47, 3.1, 288, 24, 0, 0, 35, , , , 0
+Gaines, Michael DET TE, 46, 3.1, 260, 23, 1, 2, 37, 0, 0, 0, 2
+Heiden, Steve CLE TE, 43, 3.1, 249, 23, 0, 0, 43, , , , 0
+Campbell, Daniel DET TE, 3, 3.0, 21, 1, 0, 0, 1, , , , 0
+Kelly, Reginald CIN TE, 44, 2.9, 198, 29, 0, 0, 40, , , , 0
+Rosario, Dante CAR TE, 41, 2.7, 209, 18, 1, 0, 30, , , , 0
+King, Jeff CAR TE, 40, 2.7, 195, 21, 1, 0, 33, , , , 0
+Peelle, Justin ATL TE, 37, 2.5, 159, 15, 2, 0, 22, , , , 0
+Fine, Derek BUF TE, 21, 2.3, 86, 8, 1, 0, 10, , , , 0
+Baker, Chris NYJ TE, 32, 2.1, 181, 19, 0, 0, 27, , , , 0
+Robinson, Gijon IND TE, 30, 2.1, 160, 18, 0, 0, 23, , , , 0
+Walker, Delanie SFO TE, 29, 2.1, 155, 10, 1, 0, 16, -13, 2, 0, 0
+Gilmore, John TBB TE, 32, 2.1, 147, 15, 1, 0, 22, , , , 0
+Schouman, Derek BUF TE, 30, 2.0, 147, 13, 1, 0, 18, , , , 0
+Patrick, Ben ARI TE, 17, 1.9, 87, 10, 0, 0, 14, , , , 0
+Spaeth, Matt PIT TE, 27, 1.8, 136, 17, 0, 0, 26, , , , 0
+Fitzsimmons, Casey DET TE, 24, 1.8, 78, 11, 1, 0, 21, , , , 0
+Manumaleuna, Brandon SDC TE, 25, 1.7, 110, 13, 1, 0, 17, , , , 0
+Humphrey, Tory GBP TE, 24, 1.6, 162, 11, 0, 0, 17, , , , 0
+Mills, Garrett MIN TE, 10, 1.2, 65, 5, 0, 0, 11, , , , 0
+Estandia, Greg JAC TE, 17, 1.1, 104, 9, 0, 0, 15, , , , 0
+Thomas, Dave NEP TE, 15, 1.1, 93, 9, 0, 0, 17, , , , 0
+Stewart, Tony OAK TE, 16, 1.1, 81, 11, 0, 0, 15, , , , 0
+Owens, John DET TE, 16, 1.1, 54, 7, 1, 0, 11, , , , 0
+Yoder, Todd WAS TE, 17, 1.1, 50, 8, 1, 0, 10, , , , 0
+Dreessen, Joel HOU TE, 15, 1.0, 77, 11, 0, 0, 17, , , , 0
+Pope, Leonard ARI TE, 12, 1.0, 70, 8, 0, 0, 11, , , , 0
+Klopfenstein, Joe STL TE, 14, 0.9, 94, 10, 0, 1, 18, 0, 0, 0, 1
+Kleinsasser, Jim MIN TE, 13, 0.9, 87, 5, 0, 0, 12, , , , 0
+Dinkins, Darnell CLE TE, 13, 0.9, 41, 5, 1, 0, 11, , , , 0
+Johnson, Darcy NYG TE, 14, 0.9, 2, 2, 2, 0, 3, , , , 0
+Cottam, Brad KCC TE, 11, 0.7, 63, 7, 0, 0, 11, , , , 0
+Wilford, Ernest MIA WR, 5, 0.7, 25, 3, 0, 0, 6, , , , 0
+Finley, Jermichael GBP TE, 7, 0.5, 45, 4, 0, 0, 9, , , , 0
+Becht, Anthony STL TE, 7, 0.5, 39, 6, 0, 0, 11, , , , 0
+Davis, Fred WAS TE, 4, 0.4, 27, 3, 0, 0, 10, -3, 1, 0, 0
+Hartsock, Ben ATL TE, 4, 0.4, 26, 3, 0, 0, 6, , , , 0
+Ryan, Sean SFO TE, 3, 0.4, 15, 3, 0, 0, 5, , , , 0
+Heller, Will SEA TE, 3, 0.3, 29, 4, 0, 1, 6, 0, 0, 0, 1
+Matthews, Michael NYG TE, 4, 0.3, 26, 2, 0, 0, 3, , , , 0
+Spach, Stephen ARI TE, 3, 0.3, 15, 2, 0, 0, 6, , , , 0
+Coats, Daniel CIN RB, 3, 0.2, 19, 2, 0, 0, 9, , , , 0
+Rucker, Martin CLE TE, 1, 0.2, 9, 1, 0, 0, 3, , , , 0
+Tamme, Jacob IND TE, 1, 0.1, 6, 1, 0, 0, 3, , , , 0
+Bajema, Billy SFO TE, 1, 0.1, 5, 1, 0, 0, 3, , , , 0
+Barnidge, Gary CAR TE, 0, 0.0, 0, 0, 0, 0, 1, , , , 0
+Davis, Kellen CHI TE, 0, 0.0, , , , , , , , , 
+Dearth, James NYJ TE, 0, 0.0, , , , , , , , , 
+Harris, Clark HOU TE, 0, 0.0, , , , , , , , , 
+Jennings, Brian SFO TE, 0, 0.0, , , , , , , , , 
+Leach, Mike DEN TE, 0, 0.0, , , , , , , , , 
+Robinson, Jeff SEA TE, 0, 0.0, , , , , , , , , 
+Snow, Justin IND TE, 0, 0.0, , , , , , , , , 
+Stevens, Craig TEN TE, 0, 0.0, 0, 0, 0, 0, 1, , , , 0
+Wilson, Kris SDC TE, 0, 0.0, , , , , , , , , 
+Zelenka, Joe JAC TE, 0, 0.0, , , , , , , , , 
+
+[TE=LAST,FIRST NFL POS,PTS,AVG,CYDS,RECS,CTDS,FUMS,TGT,RYDS,ATT,RTDS,FUMS2]
+Clark, Dallas IND TE, 252, 16.8, 1054, 93, 10, 0, 124, 11, 2, 0, 0
+Gates, Antonio SDC TE, 227, 15.1, 1145, 78, 7, 0, 110, , , , 0
+Davis, Vernon SFO TE, 226, 15.1, 876, 72, 12, 0, 119, , , , 0
+Daniels, Owen HOU TE, 118, 14.8, 519, 40, 5, 0, 58, , , , 0
+Celek, Brent PHI TE, 197, 13.1, 875, 69, 8, 0, 103, , , , 0
+Gonzalez, Tony ATL TE, 194, 12.9, 837, 80, 6, 0, 128, , , , 0
+Witten, Jason DAL TE, 182, 12.1, 954, 88, 1, 0, 117, , , , 0
+Winslow, Kellen TBB TE, 178, 11.9, 828, 72, 5, 0, 119, 7, 1, 0, 0
+Miller, Heath PIT TE, 167, 11.1, 733, 71, 5, 0, 91, , , , 0
+Finley, Jermichael GBP TE, 132, 11.0, 642, 51, 4, 1, 66, 0, 0, 0, 1
+Miller, Zach OAK TE, 141, 10.1, 767, 59, 2, 0, 91, , , , 0
+Cooley, Chris WAS TE, 71, 10.1, 332, 29, 2, 0, 45, , , , 0
+Shiancoe, Visanthe MIN TE, 149, 9.9, 472, 49, 10, 0, 71, , , , 0
+Olsen, Greg CHI TE, 143, 9.5, 518, 55, 7, 0, 100, , , , 0
+Schouman, Derek BUF TE, 19, 9.5, 103, 9, 0, 0, 11, , , , 0
+Heap, Todd BAL TE, 135, 9.0, 553, 51, 6, 0, 72, 2, 1, 0, 0
+Shockey, Jeremy NOS TE, 116, 8.9, 569, 48, 3, 0, 67, , , , 0
+Boss, Kevin NYG TE, 124, 8.9, 567, 42, 5, 0, 66, 16, 1, 0, 0
+Carlson, John SEA TE, 134, 8.9, 560, 49, 6, 0, 80, , , , 0
+Davis, Fred WAS TE, 120, 8.0, 463, 42, 6, 0, 65, , , , 0
+Pettigrew, Brandon DET TE, 75, 6.8, 352, 31, 2, 0, 55, , , , 0
+Keller, Dustin NYJ TE, 101, 6.7, 513, 44, 2, 1, 81, 7, 1, 0, 1
+Scaife, Bo TEN TE, 84, 6.5, 426, 43, 1, 1, 67, 0, 0, 0, 1
+Lewis, Marcedes JAC TE, 91, 6.1, 518, 32, 2, 0, 59, , , , 0
+Watson, Ben NEP TE, 88, 5.9, 372, 26, 5, 0, 35, , , , 0
+Moore, Evan CLE TE, 22, 5.5, 140, 10, 0, 0, 16, , , , 0
+Santi, Tom IND TE, 16, 5.3, 107, 8, 0, 1, 11, 0, 0, 0, 1
+Scheffler, Tony DEN TE, 77, 5.1, 416, 31, 2, 0, 50, , , , 0
+Rosario, Dante CAR TE, 66, 5.1, 313, 26, 2, 0, 47, , , , 0
+Fasano, Anthony MIA TE, 62, 4.8, 298, 29, 2, 2, 52, 0, 0, 0, 2
+Thomas, Dave NOS TE, 70, 4.7, 356, 35, 1, 0, 49, , , , 0
+Heller, Will DET TE, 68, 4.5, 266, 27, 3, 0, 47, , , , 0
+McMichael, Randy STL TE, 65, 4.3, 325, 33, 1, 0, 60, , , , 0
+Fells, Daniel STL TE, 59, 4.2, 273, 21, 3, 1, 35, 0, 0, 0, 1
+Foschi, John Paul CIN TE, 58, 3.9, 260, 27, 2, 1, 37, 0, 0, 0, 1
+Patrick, Ben ARI TE, 35, 3.9, 146, 12, 2, 0, 16, , , , 0
+Lee, Donald GBP TE, 57, 3.8, 240, 34, 1, 0, 52, , , , 0
+King, Jeff CAR TE, 56, 3.7, 197, 24, 3, 0, 30, , , , 0
+Ryan, Sean KCC TE, 37, 3.7, 135, 14, 2, 0, 27, , , , 0
+Graham, Daniel DEN TE, 51, 3.4, 260, 24, 1, 0, 35, , , , 0
+Crumpler, Alge TEN TE, 49, 3.3, 222, 27, 1, 1, 37, 0, 0, 0, 1
+Clark, Desmond CHI TE, 32, 3.2, 138, 17, 1, 0, 32, , , , 0
+Pope, Leonard KCC TE, 35, 2.9, 145, 19, 1, 0, 27, , , , 0
+Haynos, Joey MIA TE, 42, 2.8, 156, 18, 2, 0, 36, , , , 0
+Nelson, Shawn BUF TE, 33, 2.8, 156, 17, 1, 1, 29, 0, 0, 0, 1
+Dreessen, Joel HOU TE, 40, 2.7, 239, 20, 0, 0, 32, , , , 0
+Heiden, Steve CLE TE, 19, 2.7, 73, 10, 1, 1, 17, 0, 0, 0, 1
+Walker, Delanie SFO TE, 38, 2.5, 227, 19, 0, 2, 31, 34, 3, 0, 2
+Cottam, Brad KCC TE, 20, 2.5, 120, 9, 0, 0, 15, , , , 0
+Baker, Chris NEP TE, 35, 2.3, 129, 13, 2, 0, 18, , , , 0
+Bennett, Martellus DAL TE, 28, 2.2, 159, 15, 0, 0, 29, , , , 0
+Fitzsimmons, Casey DET TE, 26, 2.2, 128, 18, 0, 1, 27, 0, 0, 0, 1
+Davis, Kellen CHI TE, 33, 2.2, 75, 9, 3, 0, 14, , , , 0
+Barnidge, Gary CAR TE, 32, 2.1, 242, 12, 0, 0, 21, , , , 0
+Miller, Zach JAC TE, 25, 1.9, 143, 13, 0, 0, 17, 3, 1, 0, 0
+Royal, Robert CLE TE, 23, 1.9, 100, 9, 1, 0, 24, , , , 0
+Wilford, Ernest JAC TE, 25, 1.8, 123, 11, 1, 0, 20, , , , 0
+Stevens, Jerramy TBB TE, 27, 1.8, 116, 14, 1, 0, 30, , , , 0
+Sperry, Kory MIA TE, 12, 1.7, 31, 3, 1, 0, 5, , , , 0
+Gaines, Michael CLE TE, 16, 1.6, 59, 5, 1, 0, 8, , , , 0
+Coats, Daniel CIN TE, 23, 1.5, 138, 15, 0, 1, 30, 0, 0, 0, 1
+Peelle, Justin ATL TE, 21, 1.5, 77, 9, 1, 0, 11, , , , 0
+Fine, Derek BUF TE, 12, 1.5, 64, 9, 0, 0, 18, , , , 0
+Estandia, Greg CLE TE, 7, 1.2, 45, 4, 0, 0, 13, , , , 0
+Stewart, Tony OAK TE, 15, 1.1, 78, 10, 0, 0, 14, , , , 0
+Cook, Jared TEN TE, 14, 1.1, 74, 9, 0, 0, 15, , , , 0
+Yoder, Todd WAS TE, 15, 1.0, 7, 3, 2, 0, 4, , , , 0
+Bajema, Billy STL TE, 14, 0.9, 94, 8, 0, 0, 10, , , , 0
+Robinson, Gijon IND TE, 12, 0.9, 62, 9, 0, 0, 15, , , , 0
+Becht, Anthony ARI TE, 14, 0.9, 61, 7, 1, 1, 12, 0, 0, 0, 1
+Casey, James HOU TE, 11, 0.8, 64, 6, 0, 0, 12, , , , 0
+Spaeth, Matt PIT TE, 12, 0.8, 25, 5, 1, 0, 7, , , , 0
+Kleinsasser, Jim MIN TE, 11, 0.7, 53, 8, 0, 0, 14, , , , 0
+Johnson, Darcy NYG TE, 8, 0.7, 32, 5, 0, 0, 7, , , , 0
+Wilson, Kris SDC TE, 11, 0.7, 25, 3, 1, 0, 6, , , , 0
+Dinkins, Darnell NOS TE, 7, 0.7, 2, 1, 1, 0, 3, , , , 0
+Phillips, John DAL TE, 9, 0.6, 48, 5, 0, 0, 7, , , , 0
+Beckum, Travis NYG TE, 8, 0.6, 39, 6, 0, 0, 8, , , , 0
+Spach, Stephen ARI TE, 3, 0.5, 16, 3, 0, 0, 8, , , , 0
+Gronkowski, Dan DET TE, 1, 0.5, 4, 1, 0, 0, 3, , , , 0
+Hartsock, Ben NYJ TE, 7, 0.5, 2, 1, 1, 0, 3, , , , 0
+Smith, L.J. BAL TE, 4, 0.4, 31, 2, 0, 0, 3, , , , 0
+Myers, Brandon OAK TE, 4, 0.4, 19, 4, 0, 0, 6, , , , 0
+Stupar, Jonathan BUF TE, 4, 0.3, 26, 3, 0, 0, 7, , , , 0
+Smith, Alex PHI TE, 5, 0.3, 25, 3, 0, 0, 8, , , , 0
+Manumaleuna, Brandon SDC TE, 5, 0.3, 10, 4, 0, 0, 5, , , , 0
+Pascoe, Bear NYG TE, 1, 0.3, 9, 1, 0, 0, 1, , , , 0
+O'Connell, Jake KCC TE, 1, 0.3, 4, 1, 0, 0, 9, , , , 0
+Morrah, Cameron SEA TE, 1, 0.3, 3, 1, 0, 0, 1, , , , 0
+Mulligan, Matthew NYJ TE, 1, 0.3, 2, 1, 0, 0, 1, , , , 0
+Owens, John SEA TE, 3, 0.2, 16, 3, 0, 0, 6, , , , 0
+Gilmore, John TBB TE, 2, 0.2, 14, 2, 0, 0, 6, , , , 0
+Hill, Anthony HOU TE, 1, 0.2, 9, 1, 0, 0, 2, , , , 0
+Tamme, Jacob IND TE, 2, 0.1, 14, 2, 0, 0, 6, , , , 0
+Johnson, David PIT TE, 2, 0.1, 9, 2, 0, 0, 4, , , , 0
+Dearth, James NYJ TE, 0, 0.0, , , , , , , , , 
+Harris, Clark CIN TE, 0, 0.0, , , , , , , , , 
+Ingram, Jake NEP TE, 0, 0.0, , , , , , , , , 
+Jennings, Brian SFO TE, 0, 0.0, , , , , , , , , 
+Leach, Mike ARI TE, 0, 0.0, , , , , , , , , 
+Matthews, Michael DET TE, 0, 0.0, 0, 0, 0, 0, 1, , , , 0
+Quinn, Richard DEN TE, 0, 0.0, , , , , , , , , 
+Robinson, Jeff SEA TE, 0, 0.0, , , , , , , , , 
+Rucker, Martin PHI TE, 0, 0.0, , , , , , , , , 
+Snow, Justin IND TE, 0, 0.0, , , , , , , , , 
+Stevens, Craig TEN TE, 0, 0.0, 0, 0, 0, 0, 1, , , , 0
+Zelenka, Joe ATL TE, 0, 0.0, , , , , , , , , 
+Zinger, Keith ATL TE, 0, 0.0, 0, 0, 0, 0, 1, , , , 0
+
+[TE=LAST,FIRST NFL POS,PTS,AVG,CYDS,RECS,CTDS,FUMS,TGT,RYDS,ATT,RTDS,FUMS2]
+Gates, Antonio SDC TE, 184, 18.4, 782, 50, 10, 0, 65, , , , 0
+Witten, Jason DAL TE, 226, 15.1, 956, 90, 8, 1, 118, 0, 0, 0, 1
+Clark, Dallas IND TE, 88, 14.7, 347, 37, 3, 0, 53, , , , 0
+Davis, Vernon SFO TE, 167, 11.1, 818, 53, 6, 0, 87, , , , 0
+Lewis, Marcedes JAC TE, 167, 11.1, 674, 54, 9, 1, 82, 0, 0, 0, 1
+Finley, Jermichael GBP TE, 55, 11.0, 301, 21, 1, 0, 26, , , , 0
+Cooley, Chris WAS TE, 163, 10.9, 796, 72, 3, 1, 119, 0, 0, 0, 1
+Winslow, Kellen TBB TE, 157, 10.5, 702, 63, 5, 0, 95, , , , 0
+Pettigrew, Brandon DET TE, 155, 10.3, 703, 68, 4, 0, 105, , , , 0
+Miller, Zach OAK TE, 142, 10.1, 654, 55, 5, 0, 87, , , , 0
+Gonzalez, Tony ATL TE, 147, 9.8, 603, 64, 5, 0, 101, , , , 0
+Keller, Dustin NYJ TE, 144, 9.6, 687, 55, 5, 0, 100, , , , 0
+Hernandez, Aaron NEP TE, 134, 9.6, 563, 45, 6, 0, 64, 47, 3, 0, 0
+Heap, Todd BAL TE, 115, 9.6, 546, 37, 5, 0, 60, , , , 0
+Watson, Ben CLE TE, 143, 9.5, 696, 61, 3, 0, 90, -1, 1, 0, 0
+Tamme, Jacob IND TE, 136, 9.1, 564, 60, 4, 0, 84, , , , 0
+Gronkowski, Rob NEP TE, 127, 8.5, 444, 36, 9, 1, 49, 0, 0, 0, 1
+Moeaki, Tony KCC TE, 113, 8.1, 539, 46, 3, 0, 67, , , , 0
+Gresham, Jermaine CIN TE, 116, 7.7, 471, 52, 4, 1, 83, 0, 0, 0, 1
+Boss, Kevin NYG TE, 106, 7.6, 502, 33, 5, 1, 65, 0, 0, 0, 1
+Celek, Brent PHI TE, 111, 7.4, 511, 42, 4, 0, 80, , , , 0
+Daniels, Owen HOU TE, 74, 7.4, 409, 33, 1, 0, 63, , , , 0
+Fasano, Anthony MIA TE, 110, 7.3, 528, 39, 4, 0, 60, , , , 0
+Shockey, Jeremy NOS TE, 94, 7.2, 409, 41, 3, 0, 59, , , , 0
+Shiancoe, Visanthe MIN TE, 101, 6.7, 517, 45, 2, 0, 77, , , , 0
+Dreessen, Joel HOU TE, 97, 6.5, 467, 34, 4, 1, 53, 0, 0, 0, 1
+Miller, Heath PIT TE, 83, 6.4, 457, 38, 1, 1, 60, 0, 0, 0, 1
+Olsen, Greg CHI TE, 94, 6.3, 375, 36, 5, 1, 63, 0, 0, 0, 1
+Scaife, Bo TEN TE, 86, 6.1, 318, 36, 4, 1, 52, 0, 0, 0, 1
+Hoomanawanui, Michael STL TE, 42, 6.0, 146, 13, 3, 0, 22, , , , 0
+Graham, Jimmy NOS TE, 83, 5.9, 341, 29, 4, 0, 42, 3, 1, 0, 0
+Fells, Daniel STL TE, 78, 5.2, 352, 38, 2, 0, 60, , , , 0
+Scheffler, Tony DET TE, 73, 5.2, 328, 39, 1, 0, 65, , , , 0
+Thomas, Dave NOS TE, 60, 4.6, 219, 30, 2, 0, 46, , , , 0
+Carlson, John SEA TE, 62, 4.4, 315, 30, 1, 0, 55, , , , 0
+Walker, Delanie SFO TE, 54, 4.2, 314, 28, 0, 1, 42, 18, 3, 0, 1
+Moore, Evan CLE TE, 47, 3.9, 322, 16, 1, 1, 26, 0, 0, 0, 1
+Davis, Fred WAS TE, 57, 3.8, 296, 19, 2, 0, 28, , , , 0
+Quarless, Andrew GBP TE, 44, 3.7, 233, 20, 1, 1, 32, 0, 0, 0, 1
+Cook, Jared TEN TE, 54, 3.6, 303, 22, 1, 0, 36, , , , 0
+Bennett, Martellus DAL TE, 51, 3.4, 249, 31, 0, 0, 45, , , , 0
+Rosario, Dante CAR TE, 48, 3.2, 245, 30, 0, 0, 56, -2, 1, 0, 0
+Bajema, Billy STL TE, 37, 3.1, 145, 14, 2, 0, 24, , , , 0
+McMichael, Randy SDC TE, 45, 3.0, 199, 18, 2, 0, 25, , , , 0
+Miller, Zach JAC TE, 43, 2.9, 216, 20, 1, 0, 26, 9, 2, 0, 0
+Stevens, Craig TEN TE, 31, 2.2, 122, 11, 2, 0, 23, , , , 0
+Beckum, Travis NYG TE, 33, 2.2, 116, 13, 2, 0, 17, , , , 0
+King, Jeff CAR TE, 31, 2.1, 120, 17, 1, 0, 29, , , , 0
+Dickson, Ed BAL TE, 28, 2.0, 152, 11, 1, 0, 22, , , , 0
+Gilmore, John TBB TE, 30, 2.0, 151, 12, 1, 0, 15, , , , 0
+Pope, Leonard KCC TE, 29, 1.9, 76, 10, 2, 0, 18, , , , 0
+Lee, Donald GBP TE, 25, 1.8, 72, 10, 2, 1, 11, 0, 0, 0, 1
+Patrick, Ben ARI TE, 25, 1.7, 123, 15, 0, 0, 18, , , , 0
+Peelle, Justin ATL TE, 20, 1.7, 74, 8, 1, 0, 11, , , , 0
+Spaeth, Matt PIT TE, 21, 1.6, 80, 9, 1, 0, 18, , , , 0
+Harbor, Clay PHI TE, 13, 1.6, 40, 5, 1, 0, 6, , , , 0
+Kleinsasser, Jim MIN TE, 23, 1.5, 126, 15, 0, 0, 19, , , , 0
+Baker, Chris SEA TE, 22, 1.5, 115, 8, 1, 0, 18, , , , 0
+Graham, Daniel DEN TE, 22, 1.5, 107, 16, 0, 0, 32, , , , 0
+Shuler, Mickey MIA TE, 6, 1.5, 44, 2, 0, 0, 4, , , , 0
+Stupar, Jonathan BUF TE, 19, 1.3, 104, 11, 0, 0, 11, , , , 0
+Sperry, Kory SDC TE, 8, 1.3, 56, 3, 0, 0, 3, , , , 0
+Stevens, Jerramy FA TE, 6, 1.2, 43, 3, 0, 0, 5, , , , 0
+Morrah, Cameron SEA TE, 16, 1.1, 111, 8, 0, 0, 16, , , , 0
+Myers, Brandon OAK TE, 16, 1.1, 73, 11, 0, 0, 15, , , , 0
+Pascoe, Bear NYG TE, 15, 1.1, 72, 9, 0, 0, 13, , , , 0
+Royal, Robert CLE TE, 15, 1.1, 56, 5, 1, 0, 8, , , , 0
+Martin, David BUF TE, 15, 1.1, 43, 6, 1, 0, 7, , , , 0
+Casey, James HOU TE, 15, 1.0, 98, 8, 0, 0, 14, , , , 0
+Palmer, Michael ATL TE, 13, 1.0, 29, 5, 1, 0, 7, , , , 0
+Onobun, Fendi STL TE, 3, 1.0, 15, 2, 0, 0, 4, , , , 0
+Gronkowski, Dan DEN TE, 11, 0.9, 64, 8, 0, 0, 13, , , , 0
+Manumaleuna, Brandon CHI TE, 13, 0.9, 43, 5, 1, 0, 6, , , , 0
+Crumpler, Alge NEP TE, 13, 0.9, 42, 5, 1, 0, 8, , , , 0
+Robinson, Gijon IND TE, 9, 0.9, 12, 3, 1, 0, 7, , , , 0
+Paulsen, Logan WAS TE, 8, 0.9, 10, 2, 1, 0, 2, , , , 0
+Heller, Will DET TE, 11, 0.7, 31, 3, 1, 0, 4, , , , 0
+Purvis, Ryan TBB TE, 6, 0.7, 27, 4, 0, 0, 5, , , , 0
+Crabtree, Tom GBP TE, 9, 0.6, 61, 4, 0, 0, 7, , , , 0
+Kelly, Reginald CIN TE, 9, 0.6, 36, 8, 0, 0, 11, , , , 0
+Wilson, Kris SDC TE, 7, 0.5, 70, 5, 0, 1, 7, 0, 0, 0, 1
+Johnson, David PIT TE, 7, 0.5, 46, 4, 0, 0, 6, , , , 0
+Spach, Stephen ARI TE, 8, 0.5, 40, 7, 0, 0, 17, , , , 0
+Eldridge, Brody IND TE, 6, 0.5, 39, 5, 0, 0, 9, , , , 0
+Davis, Kellen CHI TE, 8, 0.5, 19, 1, 1, 0, 2, , , , 0
+Clark, Desmond CHI TE, 2, 0.5, 12, 1, 0, 0, 2, , , , 0
+Wilford, Ernest FA TE, 1, 0.5, 3, 1, 0, 0, 2, , , , 0
+Dray, Jim ARI TE, 6, 0.4, 47, 3, 0, 0, 9, , , , 0
+O'Connell, Jake KCC TE, 5, 0.4, 31, 3, 0, 0, 4, , , , 0
+Byham, Nate SFO TE, 5, 0.4, 27, 5, 0, 0, 7, , , , 0
+Nelson, Shawn BUF TE, 2, 0.4, 25, 3, 0, 1, 4, 0, 0, 0, 1
+Mills, Garrett CIN TE, 3, 0.4, 19, 2, 0, 0, 3, , , , 0
+Humphrey, Tory NOS TE, 2, 0.4, 12, 1, 0, 0, 1, , , , 0
+Smith, Alex CLE TE, 1, 0.3, 6, 1, 0, 0, 1, , , , 0
+Quinn, Richard DEN TE, 1, 0.1, 9, 1, 0, 0, 2, , , , 0
+Chandler, Scott BUF TE, 1, 0.1, 8, 1, 0, 0, 2, , , , 0
+Hartsock, Ben NYJ TE, 1, 0.1, 7, 1, 0, 0, 3, , , , 0
+Pitta, Dennis BAL TE, 1, 0.1, 1, 1, 0, 0, 5, , , , 0
+Ballard, Jake NYG TE, 0, 0.0, , , , , , , , , 
+Barnidge, Gary CAR TE, 0, 0.0, 0, 0, 0, 0, 8, , , , 0
+Cloherty, Colin SFO TE, 0, 0.0, , , , , , , , , 
+Coats, Daniel DEN TE, 0, 0.0, 0, 0, 0, 0, 1, , , , 0
+Coffman, Chase CIN TE, 0, 0.0, , , , , , , , , 
+Epps, Dedrick MIA TE, 0, 0.0, , , , , , , , , 
+Foschi, John Paul FA TE, 0, 0.0, , , , , , , , , 
+Graham, Garrett HOU TE, 0, 0.0, , , , , , , , , 
+Harris, Clark CIN TE, 0, 0.0, , , , , , , , , 
+Ingram, Jake NOS TE, 0, 0.0, , , , , , , , , 
+Jennings, Brian SFO TE, 0, 0.0, , , , , , , , , 
+Johnson, Darcy STL TE, 0, 0.0, 0, 0, 0, 0, 2, , , , 0
+Leach, Mike ARI TE, 0, 0.0, , , , , , , , , 
+Mastrud, Jeron MIA TE, 0, 0.0, 0, 0, 0, 0, 1, , , , 0
+McCoy, Anthony SEA TE, 0, 0.0, , , , , , , , , 
+Mulligan, Matthew NYJ TE, 0, 0.0, 0, 0, 0, 0, 1, , , , 0
+Nalbone, John PHI TE, 0, 0.0, , , , , , , , , 
+Rucker, Martin DAL TE, 0, 0.0, , , , , , , , , 
+Schouman, Derek STL TE, 0, 0.0, , , , , , , , , 
+Snow, Justin IND TE, 0, 0.0, , , , , , , , , 
+Zelenka, Joe ATL TE, 0, 0.0, , , , , , , , , 
+
+[PK=LAST,FIRST NFL POS,PTS,AVG,FG3S,MISS FG,PATS,MISS XP]
+Gostkowski, Stephen NEP PK, 152, 10.1, 34, 3, 39, 0
+Carney, John NYG PK, 134, 9.6, 31, 2, 37, 0
+Bironas, Rob TEN PK, 144, 9.6, 29, 3, 40, 0
+Akers, David PHI PK, 137, 9.1, 30, 6, 40, 0
+Lindell, Rian BUF PK, 136, 9.1, 30, 7, 34, 0
+Hartley, Garrett NOS PK, 64, 9.1, 12, 0, 24, 0
+Elam, Jason ATL PK, 134, 8.9, 28, 2, 38, 0
+Longwell, Ryan MIN PK, 134, 8.9, 27, 5, 38, 0
+Bryant, Matt TBB PK, 130, 8.7, 31, 6, 32, 1
+Crosby, Mason GBP PK, 131, 8.7, 26, 6, 42, 0
+Brown, Kris HOU PK, 129, 8.6, 28, 4, 33, 0
+Prater, Matt DEN PK, 128, 8.5, 25, 9, 38, 0
+Kasay, John CAR PK, 126, 8.4, 24, 2, 43, 0
+Brown, Josh STL PK, 125, 8.3, 29, 5, 16, 0
+Nedney, Joe SFO PK, 124, 8.3, 27, 3, 31, 0
+Feely, Jay NYJ PK, 116, 8.3, 23, 4, 39, 0
+Kaeding, Nate SDC PK, 122, 8.1, 26, 5, 39, 0
+Gould, Robbie CHI PK, 121, 8.1, 25, 3, 38, 0
+Reed, Jeff PIT PK, 120, 8.0, 26, 4, 32, 1
+Dawson, Phil CLE PK, 119, 7.9, 30, 5, 18, 0
+Stover, Matt BAL PK, 117, 7.8, 25, 5, 38, 0
+Rackers, Neil ARI PK, 117, 7.8, 23, 3, 40, 0
+Suisham, Shaun WAS PK, 109, 7.3, 25, 10, 22, 0
+Mare, Olindo SEA PK, 110, 7.3, 24, 2, 27, 0
+Folk, Nick DAL PK, 109, 7.3, 18, 2, 42, 0
+Hanson, Jason DET PK, 107, 7.1, 21, 1, 22, 1
+Carpenter, Dan MIA PK, 107, 7.1, 20, 4, 37, 0
+Scobee, Josh JAC PK, 102, 6.8, 19, 6, 32, 0
+Vinatieri, Adam IND PK, 100, 6.7, 17, 5, 41, 0
+Janikowski, Sebastian OAK PK, 98, 6.5, 23, 6, 21, 1
+Barth, Connor KCC PK, 55, 6.1, 10, 2, 24, 0
+Graham, Shayne CIN PK, 76, 5.8, 18, 3, 14, 0
+Rayner, Dave FA PK, 6, 3.0, 1, 0, 3, 0
+Tynes, Lawrence NYG PK, 6, 3.0, 1, 0, 3, 0
+Nugent, Mike NYJ PK, 2, 2.0, 0, 1, 2, 0
+Hauschka, Steven BAL PK, 5, 0.7, 1, 1, 0, 0
+Lloyd, Rhys CAR PK, 0, 0.0, , , , 
+
+[PK=LAST,FIRST NFL POS,PTS,AVG,FG3S,MISS FG,PATS,MISS XP]
+Akers, David PHI PK, 152, 10.1, 32, 4, 43, 2
+Kaeding, Nate SDC PK, 145, 9.7, 29, 3, 48, 1
+Tynes, Lawrence NYG PK, 132, 8.8, 27, 5, 44, 0
+Bironas, Rob TEN PK, 132, 8.8, 26, 4, 35, 0
+Crosby, Mason GBP PK, 130, 8.7, 26, 9, 44, 1
+Longwell, Ryan MIN PK, 130, 8.7, 23, 2, 49, 1
+Prater, Matt DEN PK, 128, 8.5, 29, 5, 29, 0
+Carney, John FA* PK, 91, 8.3, 13, 4, 50, 2
+Hartley, Garrett NOS PK, 33, 8.2, 8, 2, 9, 1
+Feely, Jay NYJ PK, 121, 8.1, 27, 6, 28, 0
+Gostkowski, Stephen NEP PK, 122, 8.1, 24, 5, 44, 0
+Schmitt, Ricky SFO PK, 8, 8.0, 2, 1, 2, 0
+Carpenter, Dan MIA PK, 116, 7.7, 24, 3, 34, 1
+Reed, Jeff PIT PK, 114, 7.6, 24, 4, 38, 0
+Barth, Connor TBB PK, 60, 7.5, 13, 5, 11, 0
+Janikowski, Sebastian OAK PK, 110, 7.3, 24, 3, 16, 0
+Brown, Kris HOU PK, 108, 7.2, 21, 9, 39, 0
+Cundiff, Billy BAL PK, 77, 7.0, 18, 3, 20, 0
+Lindell, Rian BUF PK, 104, 6.9, 25, 5, 21, 0
+Graham, Shayne CIN PK, 104, 6.9, 23, 5, 28, 1
+Folk, Nick FA* PK, 97, 6.9, 18, 10, 36, 0
+Rackers, Neil ARI PK, 90, 6.9, 16, 1, 36, 1
+Gould, Robbie CHI PK, 102, 6.8, 21, 4, 29, 0
+Stover, Matt IND PK, 61, 6.8, 9, 2, 32, 0
+Vinatieri, Adam IND PK, 40, 6.7, 7, 2, 17, 1
+Succop, Ryan KCC PK, 99, 6.6, 22, 4, 24, 0
+Nedney, Joe SFO PK, 92, 6.6, 17, 4, 33, 0
+Elam, Jason FA PK, 73, 6.6, 12, 7, 32, 1
+Mare, Olindo SEA PK, 98, 6.5, 22, 2, 27, 0
+Suisham, Shaun DAL PK, 84, 6.5, 19, 3, 22, 1
+Dawson, Phil CLE PK, 63, 6.3, 14, 2, 16, 1
+Hauschka, Steven ATL PK, 57, 6.3, 9, 4, 27, 1
+Bryant, Matt ATL PK, 25, 6.2, 5, 2, 8, 0
+Kasay, John CAR PK, 92, 6.1, 19, 5, 29, 1
+Brown, Josh STL PK, 88, 5.9, 17, 4, 16, 0
+Scobee, Josh JAC PK, 89, 5.9, 17, 9, 28, 1
+Hanson, Jason DET PK, 84, 5.6, 18, 7, 23, 0
+Nugent, Mike FA* PK, 27, 4.5, 4, 4, 14, 0
+Gano, Graham WAS PK, 12, 4.0, 2, 0, 4, 1
+Andrus, Shane SFO PK, 6, 1.5, 0, 1, 6, 0
+Buehler, David DAL PK, 0, 0.0, , , , 
+Lloyd, Rhys CAR PK, 0, 0.0, , , , 
+
+[PK=LAST,FIRST NFL POS,PTS,AVG,FG3S,MISS FG,PATS,MISS XP]
+Janikowski, Sebastian OAK PK, 151, 10.1, 32, 8, 39, 0
+Akers, David PHI PK, 146, 9.7, 30, 6, 46, 0
+Suisham, Shaun PIT PK, 57, 9.5, 12, 1, 14, 0
+Carney, John FA* PK, 18, 9.0, 5, 1, 3, 0
+Carpenter, Dan MIA PK, 134, 8.9, 30, 10, 24, 0
+Brown, Josh STL PK, 132, 8.8, 31, 6, 26, 1
+Bryant, Matt ATL PK, 130, 8.7, 27, 3, 40, 0
+Hauschka, Steven DEN PK, 26, 8.7, 6, 1, 6, 0
+Buehler, David DAL PK, 128, 8.5, 24, 7, 40, 2
+Kaeding, Nate SDC PK, 102, 8.5, 19, 4, 37, 0
+Graham, Shayne NEP PK, 68, 8.5, 11, 0, 34, 2
+Folk, Nick NYJ PK, 126, 8.4, 29, 9, 32, 0
+Rackers, Neil HOU PK, 125, 8.3, 25, 3, 39, 0
+Vinatieri, Adam IND PK, 124, 8.3, 23, 2, 49, 0
+Hanson, Jason DET PK, 65, 8.1, 12, 2, 19, 0
+Crosby, Mason GBP PK, 120, 8.0, 21, 6, 45, 0
+Feely, Jay ARI PK, 118, 7.9, 24, 3, 28, 0
+Reed, Jeff SFO PK, 103, 7.9, 23, 8, 27, 0
+Gould, Robbie CHI PK, 117, 7.8, 24, 5, 35, 0
+Hartley, Garrett NOS PK, 102, 7.8, 18, 5, 39, 0
+Cundiff, Billy BAL PK, 116, 7.7, 24, 3, 38, 0
+Scobee, Josh JAC PK, 115, 7.7, 21, 5, 39, 0
+Rayner, Dave DET PK, 54, 7.7, 11, 3, 14, 0
+Bironas, Rob TEN PK, 113, 7.5, 22, 1, 36, 0
+Nugent, Mike CIN PK, 67, 7.4, 15, 4, 17, 0
+Gano, Graham WAS PK, 109, 7.3, 24, 10, 26, 0
+Tynes, Lawrence NYG PK, 102, 7.3, 18, 3, 41, 0
+Gostkowski, Stephen NEP PK, 58, 7.2, 10, 3, 26, 0
+Stitser, Clint CIN PK, 29, 7.2, 7, 0, 7, 2
+Succop, Ryan KCC PK, 106, 7.1, 19, 6, 41, 0
+Kasay, John CAR PK, 105, 7.0, 24, 4, 16, 0
+Prater, Matt DEN PK, 84, 7.0, 16, 2, 28, 1
+Mare, Olindo SEA PK, 103, 6.9, 22, 5, 30, 0
+Barth, Connor TBB PK, 100, 6.7, 20, 5, 34, 0
+Brown, Kris DAL PK, 20, 6.7, 4, 1, 8, 0
+Dawson, Phil CLE PK, 97, 6.5, 22, 5, 28, 0
+Nedney, Joe SFO PK, 55, 6.1, 11, 2, 17, 0
+Lindell, Rian BUF PK, 84, 5.6, 16, 5, 30, 1
+Pettrey, Aaron FA PK, 11, 5.5, 2, 2, 5, 0
+Longwell, Ryan MIN PK, 75, 5.0, 15, 1, 29, 1
+Andrus, Shane FA PK, 9, 4.5, 2, 2, 3, 0
+Carter, Todd FA PK, 0, 0.0, , , , 
+Lloyd, Rhys CAR PK, 0, 0.0, , , , 
+
+[GAMES=1]
+[DEF=LAST,FIRST NFL POS,PTS,PPG,TYA,TYP,TYR,PTS,SK,INT,FR]
+Ravens, Baltimore BAL Def, 179, 11.9, 3932, 2750, 1182, 237, 34, 24, 6
+Titans, Tennessee TEN Def, 166, 11.1, 4308, 2929, 1379, 211, 43, 20, 11
+Buccaneers, Tampa Bay TBB Def, 156, 10.4, 4561, 2852, 1709, 292, 28, 21, 8
+Eagles, Philadelphia PHI Def, 156, 10.4, 4091, 2702, 1389, 283, 44, 14, 10
+Steelers, Pittsburgh PIT Def, 156, 10.4, 3670, 2492, 1178, 223, 48, 18, 9
+Jets, New York NYJ Def, 152, 10.1, 4951, 3559, 1392, 332, 39, 14, 15
+Bears, Chicago CHI Def, 148, 9.9, 4900, 3531, 1369, 319, 28, 22, 9
+Packers, Green Bay GBP Def, 141, 9.4, 5035, 3024, 2011, 359, 26, 20, 6
+Vikings, Minnesota MIN Def, 138, 9.2, 4321, 3227, 1094, 314, 43, 12, 13
+Cardinals, Arizona ARI Def, 137, 9.1, 4974, 3297, 1677, 405, 30, 11, 16
+Cowboys, Dallas DAL Def, 135, 9.0, 4406, 2847, 1559, 321, 58, 8, 13
+Giants, New York NYG Def, 133, 8.9, 4344, 2917, 1427, 274, 41, 16, 5
+Dolphins, Miami MIA Def, 127, 8.5, 4921, 3379, 1542, 300, 41, 15, 11
+Colts, Indianapolis IND Def, 127, 8.5, 4850, 2970, 1880, 298, 28, 15, 11
+Raiders, Oakland OAK Def, 125, 8.3, 5395, 2964, 2431, 364, 30, 15, 8
+Panthers, Carolina CAR Def, 117, 7.8, 4882, 3020, 1862, 298, 35, 11, 12
+Browns, Cleveland CLE Def, 113, 7.5, 5335, 3080, 2255, 319, 18, 22, 8
+Bills, Buffalo BUF Def, 111, 7.4, 4976, 3198, 1778, 329, 23, 10, 13
+Seahawks, Seattle SEA Def, 109, 7.3, 5591, 3803, 1788, 358, 34, 8, 10
+Chargers, San Diego SDC Def, 110, 7.3, 5193, 3642, 1551, 326, 27, 13, 9
+Falcons, Atlanta ATL Def, 104, 6.9, 5150, 3320, 1830, 298, 31, 10, 8
+Saints, New Orleans NOS Def, 103, 6.9, 4954, 3303, 1651, 360, 27, 15, 7
+Texans, Houston HOU Def, 102, 6.8, 5096, 3202, 1894, 370, 23, 12, 9
+49ers, San Francisco SFO Def, 102, 6.8, 4948, 3364, 1584, 357, 29, 12, 5
+Bengals, Cincinnati CIN Def, 99, 6.6, 4988, 3102, 1886, 358, 16, 12, 11
+Patriots, New England NEP Def, 97, 6.5, 4665, 3108, 1557, 309, 28, 14, 7
+Chiefs, Kansas City KCC Def, 90, 6.0, 5962, 3623, 2339, 424, 9, 13, 16
+Rams, St. Louis STL Def, 85, 5.7, 5523, 3317, 2206, 434, 29, 10, 13
+Jaguars, Jacksonville JAC Def, 84, 5.6, 4864, 3282, 1582, 340, 26, 13, 4
+Redskins, Washington WAS Def, 80, 5.3, 4262, 2857, 1405, 269, 23, 12, 5
+Lions, Detroit DET Def, 77, 5.1, 5979, 3436, 2543, 486, 27, 4, 15
+Broncos, Denver DEN Def, 68, 4.5, 5512, 3464, 2048, 396, 23, 6, 7
+
+[DEF=LAST,FIRST NFL POS,PTS,PPG,TYA,TYP,TYR,PTS,SK,INT,FR]
+Eagles, Philadelphia PHI Def, 176, 11.7, 4663, 3167, 1496, 313, 42, 24, 13
+Saints, New Orleans NOS Def, 173, 11.5, 5397, 3614, 1783, 318, 34, 26, 13
+49ers, San Francisco SFO Def, 166, 11.1, 5113, 3648, 1465, 275, 36, 18, 15
+Packers, Green Bay GBP Def, 162, 10.8, 4364, 3079, 1285, 290, 37, 27, 10
+Broncos, Denver DEN Def, 153, 10.2, 4516, 2774, 1742, 280, 39, 15, 13
+Jets, New York NYJ Def, 152, 10.1, 3965, 2459, 1506, 236, 29, 16, 12
+Ravens, Baltimore BAL Def, 149, 9.9, 4483, 3042, 1441, 248, 29, 21, 9
+Chargers, San Diego SDC Def, 136, 9.1, 4891, 3073, 1818, 300, 33, 14, 12
+Bengals, Cincinnati CIN Def, 137, 9.1, 4502, 3186, 1316, 254, 34, 19, 6
+Cardinals, Arizona ARI Def, 134, 8.9, 5203, 3508, 1695, 292, 42, 20, 8
+Vikings, Minnesota MIN Def, 132, 8.8, 4707, 3349, 1358, 305, 44, 10, 12
+Colts, Indianapolis IND Def, 129, 8.6, 5024, 3248, 1776, 277, 34, 16, 10
+Patriots, New England NEP Def, 129, 8.6, 4684, 3060, 1624, 251, 30, 17, 10
+Bills, Buffalo BUF Def, 126, 8.4, 5292, 2805, 2487, 319, 33, 26, 4
+Panthers, Carolina CAR Def, 126, 8.4, 4840, 2954, 1886, 298, 31, 21, 13
+Cowboys, Dallas DAL Def, 126, 8.4, 4836, 3424, 1412, 250, 38, 11, 9
+Giants, New York NYG Def, 125, 8.3, 4692, 3058, 1634, 383, 33, 13, 11
+Titans, Tennessee TEN Def, 120, 8.0, 5541, 3962, 1579, 389, 29, 19, 7
+Bears, Chicago CHI Def, 120, 8.0, 5055, 3145, 1910, 352, 32, 12, 14
+Browns, Cleveland CLE Def, 119, 7.9, 5899, 3712, 2187, 358, 37, 9, 9
+Falcons, Atlanta ATL Def, 119, 7.9, 5376, 3705, 1671, 315, 27, 13, 13
+Texans, Houston HOU Def, 118, 7.9, 4880, 3244, 1636, 306, 26, 13, 12
+Buccaneers, Tampa Bay TBB Def, 116, 7.7, 5452, 3104, 2348, 380, 27, 17, 9
+Steelers, Pittsburgh PIT Def, 114, 7.6, 4582, 3244, 1338, 300, 43, 9, 10
+Dolphins, Miami MIA Def, 111, 7.4, 5187, 3553, 1634, 360, 40, 14, 5
+Chiefs, Kansas City KCC Def, 110, 7.3, 5698, 3278, 2420, 400, 21, 12, 14
+Seahawks, Seattle SEA Def, 110, 7.3, 5399, 3756, 1643, 373, 28, 12, 9
+Lions, Detroit DET Def, 94, 6.3, 5856, 3986, 1870, 457, 24, 9, 14
+Redskins, Washington WAS Def, 90, 6.0, 4751, 3002, 1749, 313, 39, 10, 6
+Raiders, Oakland OAK Def, 83, 5.5, 5461, 3213, 2248, 358, 33, 8, 12
+Rams, St. Louis STL Def, 78, 5.2, 5636, 3560, 2076, 408, 22, 8, 12
+Jaguars, Jacksonville JAC Def, 66, 4.4, 5333, 3688, 1645, 357, 14, 14, 10
+
+[DEF=LAST,FIRST NFL POS,PTS,PPG,TYA,TYP,TYR,PTS,SK,INT,FR]
+Patriots, New England NEP Def, 169, 11.3, 5614, 3927, 1687, 306, 30, 24, 12
+Steelers, Pittsburgh PIT Def, 169, 11.3, 4205, 3243, 962, 223, 43, 17, 14
+Cardinals, Arizona ARI Def, 159, 10.6, 5615, 3392, 2223, 396, 31, 17, 13
+Packers, Green Bay GBP Def, 156, 10.4, 4719, 2990, 1729, 237, 40, 22, 8
+Bears, Chicago CHI Def, 147, 9.8, 4745, 3364, 1381, 276, 31, 20, 13
+Giants, New York NYG Def, 141, 9.4, 4587, 3031, 1556, 333, 45, 15, 20
+Lions, Detroit DET Def, 139, 9.3, 5287, 3360, 1927, 356, 42, 13, 15
+Raiders, Oakland OAK Def, 138, 9.2, 4962, 2939, 2023, 361, 40, 10, 12
+Jets, New York NYJ Def, 132, 8.8, 4502, 3084, 1418, 297, 37, 8, 16
+Eagles, Philadelphia PHI Def, 130, 8.7, 4956, 3358, 1598, 363, 36, 23, 10
+Chargers, San Diego SDC Def, 130, 8.7, 3997, 2643, 1354, 294, 44, 14, 7
+Chiefs, Kansas City KCC Def, 129, 8.6, 4939, 3384, 1555, 295, 35, 14, 8
+Falcons, Atlanta ATL Def, 127, 8.5, 5028, 3471, 1557, 278, 28, 21, 8
+Seahawks, Seattle SEA Def, 126, 8.4, 5713, 3857, 1856, 401, 34, 11, 10
+Titans, Tennessee TEN Def, 126, 8.4, 5525, 3776, 1749, 316, 39, 17, 7
+Cowboys, Dallas DAL Def, 126, 8.4, 5384, 3771, 1613, 423, 30, 17, 9
+Ravens, Baltimore BAL Def, 123, 8.2, 4699, 3286, 1413, 263, 27, 17, 5
+Rams, St. Louis STL Def, 118, 7.9, 5055, 3386, 1669, 312, 43, 14, 11
+Saints, New Orleans NOS Def, 118, 7.9, 4583, 2870, 1713, 284, 30, 9, 14
+Buccaneers, Tampa Bay TBB Def, 117, 7.8, 5018, 3017, 2001, 305, 23, 18, 7
+Redskins, Washington WAS Def, 116, 7.7, 5903, 3944, 1959, 360, 29, 13, 13
+Browns, Cleveland CLE Def, 113, 7.5, 5183, 3213, 1970, 291, 27, 19, 9
+Colts, Indianapolis IND Def, 110, 7.3, 5124, 3143, 1981, 368, 29, 10, 10
+49ers, San Francisco SFO Def, 107, 7.1, 4965, 3496, 1469, 339, 30, 13, 7
+Dolphins, Miami MIA Def, 107, 7.1, 4447, 3027, 1420, 295, 39, 11, 7
+Bills, Buffalo BUF Def, 103, 6.9, 5398, 2960, 2438, 387, 26, 10, 11
+Vikings, Minnesota MIN Def, 101, 6.7, 4645, 3117, 1528, 328, 29, 14, 10
+Panthers, Carolina CAR Def, 99, 6.6, 5022, 3140, 1882, 377, 30, 17, 11
+Bengals, Cincinnati CIN Def, 92, 6.1, 5113, 3368, 1745, 382, 23, 15, 9
+Jaguars, Jacksonville JAC Def, 77, 5.1, 5452, 3751, 1701, 385, 26, 13, 5
+Texans, Houston HOU Def, 70, 4.7, 5709, 4156, 1553, 410, 28, 12, 4
+Broncos, Denver DEN Def, 63, 4.2, 5806, 3497, 2309, 438, 18, 9, 8
+
+
